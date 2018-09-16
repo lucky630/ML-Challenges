@@ -1,0 +1,19 @@
+1. Need to do binning of the age features.
+2. Apply the mean encoding on the feature having text value and frequency more than 3.
+3. Avg points * no. of comp to get the total points.
+4. need to weighted sum some of the performance features to get one score for performance.
+5. count of 0/1 or yes/no in the row.
+6. mean encoding or median encoding instead of label.
+7. normalize and then check the distribution it should be same.
+8. Use the data imputation for missing values in (education & previous_year_ratings.)
+
+9. Add the (awards_won;KpIs_met & previous_year_rating) features,
+multiply the avg_training_score and no_of_training to get total training score.
+
+10. convert education into number's where mtech>btech>+2.
+
+11. Remove the recruitment_channel or gender then check the accuracy.
+
+12. (age - length_of_service) for gettng the joining age.
+
+13. combine the region_depart to new feature.
