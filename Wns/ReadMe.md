@@ -45,3 +45,6 @@ Pca for the first layer predictions and target values shows the linear separable
 1. Should have selected ensembled prediction for the Final submission instead of selecting the single Tuned lightgbm model.
 2. Lack of diverse models in the First layer of stacking.
 3. Submission based upon public leaderboard score leads to Overfitting and drop of position in the private leaderboard.need better Local validation Strategy.
+
+# Contributors
+- [utsav aggarwal](https://github.com/utsav1)
