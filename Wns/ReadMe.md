@@ -1,4 +1,6 @@
 # WNS Machine Learning Challenge
+Finished 7th on Public and 72 on private LeaderBoard
+
 ## Things Tried
 - Need to do binning of the age features.
 - Apply the mean encoding on the feature having text value and frequency more than 3.
