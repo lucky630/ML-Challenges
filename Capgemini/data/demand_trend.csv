@@ -1,0 +1,1024 @@
+Month DD Raised,No. of FTE Request Raised,SkillList,Location,Experience Grade,Practice,Skill Group,Demand Source
+May,4,Salesforce (Functional),Bangalore,A4,BANK,(F) IT Operations,Account
+October,2,"Amazon Web services - Build , Administration and integration",Bhubaneswar,B2,M&FT,(F) IT Operations,Account
+March,2,"Amazon Web services - Build , Administration and integration",Pune,A3,TEST,,Support
+October,1,Test Automation,Bhubaneswar,B2,M&FT,(F) IT Operations,Account
+June,2,PMO (Account),Noida,A5,I&D,(D) Banking Sector,Proactive
+August,4,Salesforce (Functional),Gurgaon,B1,GP,(T) Data Governance / Master Data Management (MDM),Account
+June,1,"Testing Manual,Banking,Test Automation",Noida,A5,I&D,,Support
+August,4,"Amazon Web services - Build , Administration and integration",Gurgaon,B1,INS,,Proactive
+March,3,Angular.js,Pune,A3,TEST,(F) IT Operations,Support
+March,2,Angular.js,Pune,A3,TEST,(F) IT Operations,Proactive
+June,2,POSTGRESQL,Noida,A5,ADM,,Support
+February,4,Informatica MDM (formerly Syperian),Hyderabad,A2,CFS,(T) Card packages,Account
+October,2,Informatica MDM (formerly Syperian),Bhubaneswar,B2,M&FT,(T) Office / Desktop Solutions,Proactive
+June,1,Informatica MDM (formerly Syperian),Noida,A5,I&D,(F) Business Management / Management / Executive Management,Support
+January,2,Angular.js,Chennai,A1,DCX,(T) Enterprise Content Management (ECM),Proactive
+August,3,Angular.js,Gurgaon,B1,INS,(D) Banking Sector,Proactive
+March,3,Java,Pune,A3,TEST,(T) Enterprise Content Management (ECM),Support
+August,1,Java,Gurgaon,B1,GP,(T) Mainframe Development Technologies,Proactive
+January,1,Java,Chennai,A1,DCX,(T) Card packages,Account
+March,3,Test Environment Management,Pune,A3,TEST,(T) Operating systems and Virtualization Technologies,Account
+June,2,Test Environment Management,Noida,A5,ADM,(T) Enterprise Content Management (ECM),Support
+December,4,Selenium,Hartford,C1,ERP,(T) Mainframe Development Technologies,Support
+June,3,Selenium,Noida,A5,I&D,,Account
+May,3,Quick Test Pro,Bangalore,A4,BANK,"(T) Project Tools, Methodologies and Frameworks",Support
+December,2,Selenium,Hartford,C1,ERP,(T) Client Server Development Technologies,Support
+February,1,Selenium,Hyderabad,A2,CFS,(F) IT Operations,Account
+February,1,CRM - Salesforce.com,Hyderabad,A2,CFS,(T) Card packages,Proactive
+August,4,PMO (Project),Gurgaon,B1,GP,(T) Card packages,Support
+March,1,MS/Windows Dev OPS,Pune,A3,TEST,(T) Enterprise Content Management (ECM),Account
+March,4,MS/Windows Dev OPS,Pune,A3,TEST,(D) Banking Sector,Account
+January,1,MS/Windows Dev OPS,Chennai,A1,DCX,(T) Monitoring Technologies,Account
+March,1,MS/Windows Dev OPS,Pune,A3,TEST,(F) IT Operations,Account
+December,1,MS/Windows Dev OPS,Hartford,C1,ERP,(F) IT Operations,Account
+August,4,MS/Windows Dev OPS,Gurgaon,B1,INS,(T) Card packages,Account
+October,4,MS/Windows Dev OPS,Bhubaneswar,B2,M&FT,(T) Messaging systems,Account
+February,3,MS/Windows Dev OPS,Hyderabad,A2,CFS,(T) Guidewire,Proactive
+March,3,MS/Windows Dev OPS,Pune,A3,TEST,,Proactive
+May,2,MS/Windows Dev OPS,Bangalore,A4,BANK,,Account
+December,3,MS/Windows Dev OPS,Hartford,C1,ERP,(T) Card packages,Proactive
+December,4,MS/Windows Dev OPS,Hartford,C1,ERP,(T) Mainframe Development Technologies,Proactive
+March,3,MS/Windows Dev OPS,Pune,A3,TEST,(D) Banking Sector,Account
+October,4,MS/Windows Dev OPS,Bhubaneswar,B2,Cards,(T) Card packages,Account
+February,1,MS/Windows Dev OPS,Hyderabad,A2,CFS,(T) Operating systems and Virtualization Technologies,Support
+December,2,MS/Windows Dev OPS,Hartford,C1,ERP,(T) Card packages,Support
+August,1,MS/Windows Dev OPS,Gurgaon,B1,GP,(D) Banking Sector,Proactive
+June,3,MS/Windows Dev OPS,Noida,A5,I&D,(D) Cards,Account
+March,2,MS/Windows Dev OPS,Pune,A3,TEST,(D) Financial Services,Proactive
+August,4,MS/Windows Dev OPS,Gurgaon,B1,GP,(D) Banking Sector,Proactive
+May,2,MS/Windows Dev OPS,Bangalore,A4,BANK,"(T) Project Tools, Methodologies and Frameworks",Support
+March,3,MS/Windows Dev OPS,Pune,A3,TEST,(T) Enterprise Content Management (ECM),Support
+February,1,MS/Windows Dev OPS,Hyderabad,A2,CFS,(T) Card packages,Account
+October,4,Selenium,Bhubaneswar,B2,M&FT,(T) Mainframe Development Technologies,Account
+March,3,Selenium,Pune,A3,TEST,(T) Mainframe Development Technologies,Account
+August,3,Selenium,Gurgaon,B1,GP,(T) Mainframe Development Technologies,Account
+May,2,Selenium,Bangalore,A4,BANK,(D) Cards,Account
+October,1,Selenium,Bhubaneswar,B2,Cards,(T) Card packages,Account
+June,1,Selenium,Noida,A5,ADM,(D) Cards,Account
+March,4,MS/Windows Dev OPS,Pune,A3,TEST,(F) Sales / CRM / Marketing / Offer/ Client Management / Customer Experience,Support
+August,4,MS/Windows Dev OPS,Gurgaon,B1,GP,(D) Banking Sector,Account
+August,3,MS/Windows Dev OPS,Gurgaon,B1,INS,,Account
+October,3,Angular.js,Bhubaneswar,B2,M&FT,(F) Sales / CRM / Marketing / Offer/ Client Management / Customer Experience,Account
+June,4,Angular.js,Noida,A5,I&D,,Account
+June,1,Angular.js,Noida,A5,I&D,(D) Cards,Account
+August,1,Angular.js,Gurgaon,B1,INS,(T) Java Development Technologies,Account
+June,4,Angular.js,Noida,A5,ADM,(T) Microsoft Development Technologies,Account
+October,3,Angular.js,Bhubaneswar,B2,Cards,(T) Mainframe Development Technologies,Account
+October,4,Angular.js,Bhubaneswar,B2,Cards,,Account
+August,3,Angular.js,Gurgaon,B1,GP,(T) Card packages,Account
+March,1,Angular.js,Pune,A3,TEST,(D) Banking Sector,Proactive
+May,2,CRM - Salesforce.com,Bangalore,A4,BANK,(T) Mainframe Development Technologies,Proactive
+December,4,Informatica MDM (formerly Syperian),Hartford,C1,ERP,(T) Client Server Development Technologies,Proactive
+October,3,Informatica MDM (formerly Syperian),Bhubaneswar,B2,Cards,(T) Card packages,Support
+August,2,Informatica MDM (formerly Syperian),Gurgaon,B1,INS,(T) Enterprise Content Management (ECM),Proactive
+March,2,Informatica MDM (formerly Syperian),Pune,A3,TEST,(T) Java Development Technologies,Proactive
+June,2,Informatica PowerCenter ETL,Noida,A5,ADM,(D) Banking Sector,Proactive
+October,4,CRM - Salesforce.com,Bhubaneswar,B2,Cards,(D) Insurance Sector,Proactive
+August,4,MS/Windows Dev OPS,Gurgaon,B1,INS,(F) IT Operations,Proactive
+October,1,CRM - Salesforce.com,Bhubaneswar,B2,Cards,(T) Java Development Technologies,Proactive
+February,1,Informatica PowerCenter ETL,Hyderabad,A2,CFS,"(T) Project Tools, Methodologies and Frameworks",Account
+May,1,Salesforce (Technical),Bangalore,A4,BANK,(D) Cards,Account
+October,4,Java,Bhubaneswar,B2,Cards,(T) Mainframe Development Technologies,Account
+August,4,Splunk,Gurgaon,B1,GP,(T) Mainframe Development Technologies,Account
+October,1,Splunk,Bhubaneswar,B2,M&FT,(T) Card packages,Proactive
+February,1,SQL,Hyderabad,A2,CFS,(T) Card packages,Account
+August,2,"Informatica PowerCenter ETL,IBM Datastage",Gurgaon,B1,INS,(T) Enterprise Content Management (ECM),Support
+March,2,Talend,Pune,A3,TEST,(T) Mainframe Development Technologies,Account
+February,4,Talend,Hyderabad,A2,CFS,(T) Other Oracle ERP,Account
+March,4,BLUE PRISM,Pune,A3,TEST,(F) HRO (HR Operations - Business Services),Proactive
+June,1,Test Data Generation,Noida,A5,ADM,(T) Card packages,Account
+June,3,"Selenium,Guidewire,Insurance,SOAP UI PRO",Noida,A5,I&D,(T) Enterprise Content Management (ECM),Proactive
+August,4,"Selenium,Guidewire,SOAP UI PRO,Insurance",Gurgaon,B1,GP,(T) Mainframe Development Technologies,Proactive
+June,1,Quality Assurance,Noida,A5,ADM,(T) Card packages,Support
+June,4,"Guidewire ClaimCenter,Testing Manual",Noida,A5,ADM,(T) Card packages,Support
+August,3,LISA,Gurgaon,B1,INS,(D) Banking Sector,Account
+June,4,Test Environment Management,Noida,A5,I&D,,Proactive
+March,2,Test Automation,Pune,A3,TEST,(T) Mainframe Development Technologies,Support
+October,2,Testing Manual,Bhubaneswar,B2,Cards,(D) Banking Sector,Account
+May,2,Test Automation,Bangalore,A4,BANK,(T) Java Development Technologies,Support
+June,4,Keynote DeviceAnywhere,Noida,A5,ADM,(F) Business Management / Management / Executive Management,Account
+June,4,Keynote DeviceAnywhere,Noida,A5,ADM,(T) Guidewire,Proactive
+December,2,Test Automation,Hartford,C1,ERP,(F) IT Operations,Proactive
+May,3,Test Environment Management,Bangalore,A4,BANK,,Proactive
+March,3,Testing Manual,Pune,A3,TEST,(T) Reporting/Business Intelligence,Support
+March,3,PMO (Project),Pune,A3,TEST,(T) Enterprise Content Management (ECM),Account
+June,4,PMO (Project),Noida,A5,ADM,(T) Enterprise Content Management (ECM),Proactive
+December,2,PMO (Project),Hartford,C1,ERP,(T) Card packages,Proactive
+October,3,PMO (Project),Bhubaneswar,B2,Cards,(D) Banking Sector,Proactive
+December,4,PMO (Project),Hartford,C1,ERP,(D) Capital Markets Sector,Support
+March,2,PMO (Project),Pune,A3,TEST,(F) IT Operations,Account
+February,2,"API Integrations- REST, SOAP , Powershell,Fatwire",Hyderabad,A2,CFS,,Proactive
+February,3,.Net with MVC,Hyderabad,A2,CFS,(T) Testing Tools / Testing Automation / Performance Testing Tools,Proactive
+March,4,.Net with MVC,Pune,A3,TEST,(D) Banking Sector,Support
+October,1,"Mainframe Development Environment,COBOL 85",Bhubaneswar,B2,Cards,(T) Relational Databases,Account
+February,3,Mainframe Database - DB2 (z/OS),Hyderabad,A2,CFS,(D) Insurance Sector,Account
+May,2,"Mainframe Database - DB2 (z/OS),COBOL 85",Bangalore,A4,BANK,(T) Mainframe Development Technologies,Account
+March,1,Guidewire PolicyCenter,Pune,A3,TEST,,Support
+October,1,Guidewire PolicyCenter,Bhubaneswar,B2,M&FT,(F) IT Operations,Support
+August,3,"(T) Guidewire,(Architecture) - Architecture, Solution Designing, Farm Structure/Topology",Gurgaon,B1,GP,(T) Card packages,Account
+June,2,"Insurance,Guidewire",Noida,A5,I&D,(T) Enterprise Content Management (ECM),Account
+March,4,(T) Testing Tools / Testing Automation / Performance Testing Tools,Pune,A3,TEST,(T) Microsoft Development Technologies,Account
+March,4,Selenium,Pune,A3,TEST,(D) Capital Markets Sector,Account
+March,2,Selenium,Pune,A3,TEST,,Proactive
+October,3,ETL Testing,Bhubaneswar,B2,M&FT,(F) IT Operations,Proactive
+October,1,ETL Testing,Bhubaneswar,B2,M&FT,(T) Enterprise Content Management (ECM),Account
+June,4,ETL Testing,Noida,A5,I&D,(T) Monitoring Technologies,Proactive
+June,1,ETL Testing,Noida,A5,I&D,(T) Reporting/Business Intelligence,Proactive
+October,1,Functional Testing,Bhubaneswar,B2,Cards,(T) Relational Databases,Proactive
+March,1,(T) Testing Tools / Testing Automation / Performance Testing Tools,Pune,A3,TEST,(T) Enterprise Content Management (ECM),Proactive
+June,2,Selenium,Noida,A5,I&D,(D) Cards,Account
+March,4,Performance Testing,Pune,A3,TEST,(T) Mainframe Development Technologies,Support
+August,2,Cognos,Gurgaon,B1,INS,(D) Banking Sector,Account
+June,3,"Guidewire,ETL Testing,Insurance",Noida,A5,ADM,(D) Banking Sector,Proactive
+March,4,"iText,Amazon Web services - Build , Administration and integration",Pune,A3,TEST,(D) Banking Sector,Proactive
+March,4,"iText,Amazon Web services - Build , Administration and integration",Pune,A3,TEST,(T) Client Server Development Technologies,Proactive
+June,2,"iText,Amazon Web services - Build , Administration and integration",Noida,A5,ADM,(F) IT Operations,Proactive
+August,3,"iText,Amazon Web services - Build , Administration and integration",Gurgaon,B1,INS,(D) Banking Sector,Account
+June,1,"iText,Amazon Web services - Build , Administration and integration",Noida,A5,I&D,(T) Enterprise Content Management (ECM),Account
+March,2,"Thunderhead, Java",Pune,A3,TEST,(F) Business Management / Management / Executive Management,Proactive
+August,4,"Java (Multi Skilled),Java",Gurgaon,B1,INS,(D) Healthcare Sector,Proactive
+March,3,"Java (Multi Skilled),Java",Pune,A3,TEST,(D) Banking Sector,Account
+December,4,"Java (Multi Skilled),Java",Hartford,C1,ERP,(D) Banking Sector,Account
+May,1,"Java (Multi Skilled),Java",Bangalore,A4,BANK,(T) Mainframe Development Technologies,Proactive
+October,2,Filenet,Bhubaneswar,B2,M&FT,(D) Banking Sector,Account
+March,3,Filenet,Pune,A3,TEST,(T) Mainframe Development Technologies,Account
+October,2,Filenet,Bhubaneswar,B2,Cards,(D) Cards,Proactive
+March,1,Filenet,Pune,A3,TEST,(D) Banking Sector,Proactive
+August,1,Filenet,Gurgaon,B1,GP,(T) Java Development Technologies,Proactive
+March,3,"Core Java,Java",Pune,A3,TEST,(T) Mainframe Development Technologies,Account
+March,2,Thunderhead,Pune,A3,TEST,(T) Enterprise Content Management (ECM),Proactive
+March,1,Thunderhead,Pune,A3,TEST,(T) Enterprise Content Management (ECM),Account
+January,4,"Core Java,Java",Chennai,A1,DCX,,Proactive
+June,4,Thunderhead,Noida,A5,ADM,(T) Mainframe Development Technologies,Proactive
+January,4,Thunderhead,Chennai,A1,DCX,(F) IT Operations,Account
+February,4,Thunderhead,Hyderabad,A2,CFS,(T) Web Development Technologies,Proactive
+February,4,Thunderhead,Hyderabad,A2,CFS,(T) Reporting/Business Intelligence,Proactive
+February,4,Thunderhead,Hyderabad,A2,CFS,(T) Reporting/Business Intelligence,Proactive
+March,4,Thunderhead,Pune,A3,TEST,(D) Banking Sector,Account
+August,2,Thunderhead,Gurgaon,B1,INS,(D) Banking Sector,Proactive
+December,1,Thunderhead,Hartford,C1,ERP,(T) Enterprise Content Management (ECM),Proactive
+August,3,Thunderhead,Gurgaon,B1,GP,,Proactive
+August,2,"Java,Angular.js",Gurgaon,B1,GP,(T) Testing Tools / Testing Automation / Performance Testing Tools,Proactive
+December,3,Manual Security Testing,Hartford,C1,ERP,(T) Mainframe Development Technologies,Account
+June,3,Java,Noida,A5,ADM,(T) Card packages,Proactive
+December,3,Java,Hartford,C1,ERP,(T) Enterprise Content Management (ECM),Account
+January,3,Java,Chennai,A1,DCX,(T) Testing Tools / Testing Automation / Performance Testing Tools,Support
+January,3,Business Analytics,Chennai,A1,DCX,(D) Financial Services,Proactive
+January,4,CRM - Salesforce.com,Chennai,A1,DCX,(T) Mainframe Development Technologies,Proactive
+January,3,CRM - Salesforce.com,Chennai,A1,DCX,(T) Reporting/Business Intelligence,Proactive
+October,1,Informatica PowerCenter,Bhubaneswar,B2,M&FT,(D) Banking Sector,Account
+June,3,QlikView,Noida,A5,ADM,(T) Operating systems and Virtualization Technologies,Account
+January,1,Project Management Framework,Chennai,A1,DCX,(T) Java Development Technologies,Support
+October,1,"HTML,Core Java",Bhubaneswar,B2,M&FT,(T) Card packages,Proactive
+October,1,Testing Manual,Bhubaneswar,B2,M&FT,(T) Client Server Development Technologies,Proactive
+March,4,"JEE,Java (Multi Skilled),Java",Pune,A3,TEST,,Proactive
+May,1,"JEE,Scrum,(T) Project Tools, Methodologies and Frameworks,Java (Multi Skilled),Java",Bangalore,A4,BANK,(T) Mainframe Development Technologies,Proactive
+December,2,"Test Reporting,Informatica BI,Test Case Execution,SQL,ETL",Hartford,C1,ERP,(T) Card packages,Account
+August,4,"Informatica BI,Test Reporting,Test Case Execution,SQL,ETL",Gurgaon,B1,INS,(T) Card packages,Proactive
+August,3,"Informatica BI,Test Reporting,Test Case Execution,SQL,ETL",Gurgaon,B1,INS,(T) Card packages,Proactive
+January,1,"Informatica BI,Test Reporting,Test Case Execution,SQL,ETL",Chennai,A1,DCX,(T) Enterprise Content Management (ECM),Account
+February,1,Ab Initio,Hyderabad,A2,CFS,(T) Java Development Technologies,Account
+October,2,Ab Initio,Bhubaneswar,B2,M&FT,(D) Banking Sector,Proactive
+October,2,Ab Initio,Bhubaneswar,B2,M&FT,(T) Operating systems and Virtualization Technologies,Proactive
+October,3,Ab Initio,Bhubaneswar,B2,Cards,(D) Cards,Account
+May,1,Ab Initio,Bangalore,A4,BANK,(D) Cards,Account
+October,2,"MQ Developer,Linux",Bhubaneswar,B2,M&FT,(T) Enterprise Content Management (ECM),Proactive
+October,2,Ab Initio,Bhubaneswar,B2,M&FT,(T) Monitoring Technologies,Proactive
+October,4,Axiom,Bhubaneswar,B2,M&FT,(T) Card packages,Proactive
+March,2,Power Designer Data Architect,Pune,A3,TEST,(F) Business Management / Management / Executive Management,Account
+February,4,Power Designer Data Architect,Hyderabad,A2,CFS,(T) Mainframe Development Technologies,Account
+March,2,Power Designer Data Architect,Pune,A3,TEST,(T) Testing Tools / Testing Automation / Performance Testing Tools,Proactive
+March,4,Power Designer Data Architect,Pune,A3,TEST,(T) Enterprise Content Management (ECM),Proactive
+October,2,Power Designer Data Architect,Bhubaneswar,B2,M&FT,(T) Enterprise Content Management (ECM),Proactive
+February,4,Hyperion Financial Management,Hyderabad,A2,CFS,(T) Guidewire,Proactive
+March,4,Hyperion Financial Management,Pune,A3,TEST,(T) Enterprise Content Management (ECM),Account
+March,2,.Net (WF),Pune,A3,TEST,(F) HRO (HR Operations - Business Services),Proactive
+January,1,.Net (WF),Chennai,A1,DCX,(T) Enterprise Content Management (ECM),Proactive
+May,4,SQL,Bangalore,A4,BANK,(T) Java Development Technologies,Account
+June,4,SQL,Noida,A5,I&D,,Proactive
+June,1,SQL,Noida,A5,ADM,(T) Enterprise Content Management (ECM),Proactive
+October,2,SQL,Bhubaneswar,B2,M&FT,(D) Banking Sector,Proactive
+December,3,SQL,Hartford,C1,ERP,(T) Enterprise Content Management (ECM),Proactive
+March,1,Cards Issuing,Pune,A3,TEST,(T) Enterprise Content Management (ECM),Proactive
+August,2,Cards Issuing,Gurgaon,B1,GP,(T) Card packages,Proactive
+August,2,Cards Issuing,Gurgaon,B1,INS,(T) Java Development Technologies,Account
+May,4,Cards Issuing,Bangalore,A4,BANK,(T) BigData,Support
+May,1,Cards Issuing,Bangalore,A4,BANK,(D) Banking Sector,Account
+August,2,Peoplesoft (ERP),Gurgaon,B1,INS,(T) Mainframe Development Technologies,Proactive
+August,4,Peoplesoft (ERP),Gurgaon,B1,GP,(T) Enterprise Content Management (ECM),Proactive
+March,3,Peoplesoft (ERP),Pune,A3,TEST,(T) Mainframe Development Technologies,Account
+June,1,Peoplesoft (ERP),Noida,A5,ADM,(T) Enterprise Content Management (ECM),Proactive
+March,2,Peoplesoft (ERP),Pune,A3,TEST,(T) Enterprise Content Management (ECM),Proactive
+March,1,Peoplesoft (ERP),Pune,A3,TEST,(T) Enterprise Content Management (ECM),Account
+June,4,Peoplesoft (ERP),Noida,A5,ADM,(D) Banking Sector,Account
+June,1,Java,Noida,A5,I&D,(T) Mainframe Development Technologies,Proactive
+February,3,iOS Development,Hyderabad,A2,CFS,"(T) Project Tools, Methodologies and Frameworks",Proactive
+August,2,Java,Gurgaon,B1,INS,(T) Other Oracle ERP,Account
+October,3,Java,Bhubaneswar,B2,M&FT,,Account
+October,3,SAS,Bhubaneswar,B2,M&FT,(T) Enterprise Content Management (ECM),Account
+October,4,Testing Manual,Bhubaneswar,B2,M&FT,(D) Financial Services,Account
+February,1,Pega,Hyderabad,A2,CFS,(T) Enterprise Content Management (ECM),Account
+March,4,Pega,Pune,A3,TEST,(T) Mainframe Development Technologies,Account
+October,1,Pega,Bhubaneswar,B2,Cards,(T) Java Development Technologies,Account
+March,2,"Selenium,Jenkins",Pune,A3,TEST,"(T) Project Tools, Methodologies and Frameworks",Account
+October,3,"Selenium,Jenkins",Bhubaneswar,B2,Cards,(T) Client Server Development Technologies,Proactive
+March,1,HP Performance Center,Pune,A3,TEST,(D) Banking Sector,Proactive
+October,3,Test Automation,Bhubaneswar,B2,M&FT,(T) Data Integration,Proactive
+March,3,"Jenkins,Groovy",Pune,A3,TEST,(D) Banking Sector,Account
+March,2,"Selenium,Quick Test Pro",Pune,A3,TEST,(T) Operating systems and Virtualization Technologies,Proactive
+October,3,"Selenium,Quick Test Pro",Bhubaneswar,B2,Cards,(D) Banking Sector,Proactive
+March,3,"Selenium,Quick Test Pro",Pune,A3,TEST,(T) Enterprise Content Management (ECM),Proactive
+August,1,"Selenium,Quick Test Pro",Gurgaon,B1,GP,(D) Financial Services,Proactive
+December,1,"Selenium,Quick Test Pro",Hartford,C1,ERP,(T) Mainframe Development Technologies,Proactive
+October,2,Selenium,Bhubaneswar,B2,Cards,(T) Network operate & administration Technologies,Proactive
+October,4,Selenium,Bhubaneswar,B2,Cards,(T) Microsoft Development Technologies,Proactive
+August,4,"J2EE,Spring,Hibernate,Agile",Gurgaon,B1,GP,(T) Card packages,Account
+August,2,.Net (WF),Gurgaon,B1,INS,(T) Card packages,Proactive
+March,3,.Net (WF),Pune,A3,TEST,(T) Card packages,Account
+August,2,Business Analytics,Gurgaon,B1,GP,(T) Microsoft Development Technologies,Account
+June,4,Mulesoft API,Noida,A5,ADM,(F) IT Operations,Support
+May,4,Ab Initio,Bangalore,A4,BANK,(F) IT Operations,Proactive
+December,4,Ab Initio,Hartford,C1,ERP,(T) Operating systems and Virtualization Technologies,Proactive
+February,1,Ab Initio,Hyderabad,A2,CFS,(D) Banking Sector,Proactive
+February,3,Ab Initio,Hyderabad,A2,CFS,(T) Relational Databases,Proactive
+August,2,Java,Gurgaon,B1,GP,(D) Banking Sector,Account
+August,1,"UI,UI Customization,Backbone.js",Gurgaon,B1,GP,(T) Mainframe Development Technologies,Account
+October,4,"UI,UI Customization",Bhubaneswar,B2,Cards,(T) Relational Databases,Support
+February,4,"Project Management Framework,(T) Project Tools, Methodologies and Frameworks",Hyderabad,A2,CFS,(T) Enterprise Content Management (ECM),Proactive
+June,1,"Java,Unix,Agile,(Architecture) - Architecture, Solution Designing, Farm Structure/Topology,Mainframe Environment,Redhat Satellite Server Administration",Noida,A5,I&D,(T) Data Governance / Master Data Management (MDM),Proactive
+December,3,Java,Hartford,C1,ERP,(T) Operating systems and Virtualization Technologies,Proactive
+June,1,Core Java,Noida,A5,I&D,"(T) Project Tools, Methodologies and Frameworks",Account
+December,4,"Mainframe applications,Cards Issuing",Hartford,C1,ERP,(T) Card packages,Account
+January,1,Agile,Chennai,A1,DCX,(T) Enterprise Content Management (ECM),Proactive
+October,3,Teradata,Bhubaneswar,B2,Cards,(T) Relational Databases,Proactive
+October,1,Teradata,Bhubaneswar,B2,Cards,(T) Enterprise Content Management (ECM),Account
+October,4,Teradata,Bhubaneswar,B2,M&FT,(T) Mainframe Development Technologies,Proactive
+June,3,Teradata,Noida,A5,ADM,(D) Insurance Sector,Proactive
+October,4,Build and Release Management,Bhubaneswar,B2,M&FT,(T) Testing Tools / Testing Automation / Performance Testing Tools,Proactive
+August,2,Build and Release Management,Gurgaon,B1,INS,(D) Cards,Account
+June,1,Java,Noida,A5,I&D,(T) Operating systems and Virtualization Technologies,Proactive
+March,3,Java,Pune,A3,TEST,(T) Enterprise Content Management (ECM),Account
+October,3,"ETL,Ab Initio",Bhubaneswar,B2,Cards,(T) Mainframe Development Technologies,Proactive
+October,4,"ETL,Ab Initio",Bhubaneswar,B2,Cards,(D) Cards,Proactive
+October,3,"ETL,Ab Initio",Bhubaneswar,B2,M&FT,(T) Card packages,Account
+January,2,"ETL,Ab Initio",Chennai,A1,DCX,,Proactive
+December,3,"Defect Tracking,Testing SAP,Test Case Execution,Selenium,ETL",Hartford,C1,ERP,(T) Testing Tools / Testing Automation / Performance Testing Tools,Proactive
+May,1,"Defect Tracking,Testing SAP,Test Case Execution,Selenium,ETL",Bangalore,A4,BANK,(D) Banking Sector,Proactive
+October,2,"Defect Tracking,Testing SAP,Test Case Execution,Selenium,ETL",Bhubaneswar,B2,Cards,(D) Banking Sector,Account
+March,2,IBM,Pune,A3,TEST,(T) Testing Tools / Testing Automation / Performance Testing Tools,Account
+August,2,"(Consulting) - Business Analysis, Requirements",Gurgaon,B1,INS,(F) Business Consulting,Proactive
+June,3,Ab Initio,Noida,A5,ADM,,Account
+December,2,BLUE PRISM,Hartford,C1,ERP,(T) Java Development Technologies,Proactive
+August,4,BLUE PRISM,Gurgaon,B1,INS,(F) IT Operations,Proactive
+March,4,BLUE PRISM,Pune,A3,TEST,(T) Enterprise Content Management (ECM),Proactive
+March,2,BLUE PRISM,Pune,A3,TEST,(D) Insurance Sector,Proactive
+August,4,SAS,Gurgaon,B1,INS,(T) Mainframe Development Technologies,Support
+October,3,SAS,Bhubaneswar,B2,M&FT,(T) Reporting/Business Intelligence,Account
+March,1,SAS,Pune,A3,TEST,(T) Enterprise Content Management (ECM),Proactive
+June,1,SAS,Noida,A5,I&D,(T) Web Development Technologies,Proactive
+October,4,SAS,Bhubaneswar,B2,M&FT,(T) Enterprise Content Management (ECM),Account
+January,2,SAS,Chennai,A1,DCX,(T) Microsoft Development Technologies,Proactive
+October,4,SAS,Bhubaneswar,B2,M&FT,(T) Data Integration,Account
+March,4,SAS,Pune,A3,TEST,(F) IT Operations,Proactive
+June,4,SAS,Noida,A5,I&D,(F) IT Operations,Account
+August,3,SAS,Gurgaon,B1,INS,(T) Microsoft Development Technologies,Proactive
+December,4,"Angular.js,CSS,HTML",Hartford,C1,ERP,(D) Banking Sector,Proactive
+March,1,Java,Pune,A3,TEST,(T) Configuration Management & Versioning Tools,Account
+October,4,Java,Bhubaneswar,B2,M&FT,(D) Capital Markets Sector,Support
+June,1,Actimize,Noida,A5,ADM,(D) Insurance Sector,Proactive
+January,3,Axiom,Chennai,A1,DCX,(T) Guidewire,Proactive
+March,3,Axiom,Pune,A3,TEST,"(T) Project Tools, Methodologies and Frameworks",Proactive
+June,2,"Selenium,Test Automation,Cucumber, Behat,Webservices",Noida,A5,ADM,(T) Enterprise Content Management (ECM),Proactive
+August,1,"Selenium,Test Automation,Cucumber, Behat,Webservices",Gurgaon,B1,GP,(T) Enterprise Content Management (ECM),Proactive
+January,1,"J2EE,Spring,Hibernate,REST",Chennai,A1,DCX,(T) Mainframe Development Technologies,Account
+December,3,"J2EE,Spring,Hibernate,REST",Hartford,C1,ERP,(D) Banking Sector,Proactive
+June,3,"J2EE,Spring,Hibernate,REST",Noida,A5,I&D,(F) IT Operations,Account
+March,1,"J2EE,Spring,Hibernate,REST",Pune,A3,TEST,(T) Java Development Technologies,Proactive
+May,2,"UML,Cards Acquiring,Automation - Chef, Puppet",Bangalore,A4,BANK,(D) Banking Sector,Proactive
+June,4,"Cards Acquiring,Automation - Chef, Puppet",Noida,A5,ADM,(T) Enterprise Content Management (ECM),Proactive
+March,1,"Cards Acquiring,UML,Automation - Chef, Puppet",Pune,A3,TEST,(T) Testing Tools / Testing Automation / Performance Testing Tools,Proactive
+December,3,"Java,PYTHON,Jenkins,GIT,PowerShell ( Server Administration)",Hartford,C1,ERP,(T) Java Development Technologies,Proactive
+March,3,"Java,PYTHON,Jenkins,GIT,PowerShell ( Server Administration)",Pune,A3,TEST,,Proactive
+October,3,"Java,PYTHON,Jenkins,PowerShell ( Server Administration),GIT",Bhubaneswar,B2,Cards,(T) Java Development Technologies,Proactive
+February,2,"Java,PYTHON,Jenkins,GIT,PowerShell ( Server Administration)",Hyderabad,A2,CFS,(T) Web Development Technologies,Proactive
+August,4,"Java,PYTHON,Jenkins,GIT,PowerShell ( Server Administration)",Gurgaon,B1,INS,(T) Enterprise Content Management (ECM),Proactive
+February,4,"Java,PYTHON,Jenkins,GIT,PowerShell ( Server Administration)",Hyderabad,A2,CFS,(T) Mainframe Development Technologies,Support
+August,1,"J2EE,Spring,Hibernate,Agile",Gurgaon,B1,INS,(D) Cards,Proactive
+March,1,"J2EE,Spring,Hibernate,Agile",Pune,A3,TEST,(T) Enterprise Content Management (ECM),Account
+October,1,"J2EE,Spring,Hibernate,Agile",Bhubaneswar,B2,Cards,(T) Enterprise Content Management (ECM),Proactive
+December,3,"J2EE,Spring,Hibernate,Agile",Hartford,C1,ERP,,Account
+December,1,"J2EE,Spring,Hibernate,Agile",Hartford,C1,ERP,(T) Enterprise Content Management (ECM),Support
+December,1,"J2EE,Spring,Hibernate,Agile",Hartford,C1,ERP,(T) Monitoring Technologies,Account
+August,4,"J2EE,Spring,Hibernate,Agile",Gurgaon,B1,INS,(T) Client Server Development Technologies,Account
+January,1,"J2EE,Spring,Hibernate,Agile",Chennai,A1,DCX,(F) Business Consulting,Proactive
+August,1,"J2EE,Spring,Hibernate,Agile",Gurgaon,B1,INS,(T) Java Development Technologies,Proactive
+March,1,"J2EE,Spring,Hibernate,Agile",Pune,A3,TEST,(T) Data Science and Analytics,Proactive
+June,1,"J2EE,Spring,Hibernate,Agile",Noida,A5,I&D,(D) Banking Sector,Account
+February,2,"J2EE,Spring,Hibernate,Agile",Hyderabad,A2,CFS,(F) Finance / Treasury / Cash / Consolidation,Proactive
+February,3,"J2EE,Spring,Hibernate,Agile",Hyderabad,A2,CFS,(T) Card packages,Proactive
+August,2,"J2EE,Spring,Hibernate,Agile",Gurgaon,B1,GP,(D) Banking Sector,Proactive
+December,3,"J2EE,Spring,Hibernate,Agile",Hartford,C1,ERP,(T) Enterprise Content Management (ECM),Proactive
+December,1,"J2EE,Spring,Hibernate,Agile",Hartford,C1,ERP,(T) Configuration Management & Versioning Tools,Proactive
+August,1,"J2EE,Spring,Hibernate,Agile",Gurgaon,B1,GP,(T) Java Development Technologies,Account
+May,3,"J2EE,Spring,Hibernate,Agile",Bangalore,A4,BANK,(T) Java Development Technologies,Proactive
+June,2,"Performance Testing,BatchSupport,System Management Application",Noida,A5,ADM,(T) Web Development Technologies,Proactive
+March,2,"Performance Testing,BatchSupport,System Management Application",Pune,A3,TEST,(D) Capital Markets Sector,Proactive
+March,4,"Performance Testing,System Management Application,BatchSupport",Pune,A3,TEST,(T) BigData,Proactive
+March,2,"Performance Testing,BatchSupport,System Management Application",Pune,A3,TEST,(T) Card packages,Proactive
+December,4,"Java,PL SQL,Cloud,Dynamics CRM 2011,JMX",Hartford,C1,ERP,(T) Operating systems and Virtualization Technologies,Proactive
+March,1,Java,Pune,A3,TEST,(T) Enterprise Content Management (ECM),Proactive
+March,3,"Java,Selenium,Cucumber, Behat,C#,CSS,Test Automation",Pune,A3,TEST,,Proactive
+March,4,"Java,Selenium,Cucumber, Behat,C#,CSS,Test Automation",Pune,A3,TEST,(T) Enterprise Content Management (ECM),Support
+October,1,"Java,Test Automation,C#,Selenium,Cucumber, Behat",Bhubaneswar,B2,M&FT,(T) Card packages,Account
+June,1,"Java,Test Automation,C#,Selenium,Cucumber, Behat",Noida,A5,I&D,(T) Operating systems and Virtualization Technologies,Account
+August,2,"Java,Test Automation,C#,Cucumber, Behat,Selenium",Gurgaon,B1,GP,(T) Mainframe Development Technologies,Proactive
+August,3,"Java,Selenium,Test Automation,C#,Cucumber, Behat",Gurgaon,B1,INS,(T) Card packages,Account
+August,3,"Java,Selenium,Test Automation,C#,Cucumber, Behat",Gurgaon,B1,INS,(F) Sales / CRM / Marketing / Offer/ Client Management / Customer Experience,Proactive
+January,2,"Java,Selenium,Test Automation,C#,Cucumber, Behat",Chennai,A1,DCX,(F) Business Management / Management / Executive Management,Account
+January,2,"Java,Selenium,Test Automation,C#,Cucumber, Behat",Chennai,A1,DCX,(T) Mainframe Development Technologies,Proactive
+August,4,"Java,Selenium,Test Automation,C#,Cucumber, Behat",Gurgaon,B1,GP,(T) Mainframe Development Technologies,Account
+August,3,"Java,Selenium,Test Automation,C#,Cucumber, Behat",Gurgaon,B1,INS,(D) Insurance Sector,Proactive
+October,2,"Java,Selenium,Test Automation,C#,Cucumber, Behat",Bhubaneswar,B2,M&FT,"(T) Project Tools, Methodologies and Frameworks",Proactive
+May,4,"Java,Selenium,Test Automation,C#,Cucumber, Behat",Bangalore,A4,BANK,(F) IT Operations,Account
+June,4,"Java,Selenium,Test Automation,C#,Cucumber, Behat",Noida,A5,ADM,(D) Banking Sector,Proactive
+October,1,"Java,Selenium,Test Automation,C#,Cucumber, Behat",Bhubaneswar,B2,Cards,(T) Enterprise Service Bus (ESB),Proactive
+October,3,"Java,Selenium,Test Automation,C#,Cucumber, Behat",Bhubaneswar,B2,M&FT,(T) Testing Tools / Testing Automation / Performance Testing Tools,Proactive
+October,3,"Java,Test Automation,Cucumber, Behat,C#,Selenium",Bhubaneswar,B2,M&FT,(T) Card packages,Proactive
+August,1,Project Management Framework,Gurgaon,B1,INS,(T) Enterprise Content Management (ECM),Proactive
+February,4,"Testing Manual,Cards Acquiring",Hyderabad,A2,CFS,(T) Card packages,Proactive
+October,2,"Selenium,Test Automation,Cucumber, Behat,Java 7",Bhubaneswar,B2,M&FT,(T) Enterprise Content Management (ECM),Proactive
+June,3,"Test Automation,Cucumber, Behat,Java 7,Selenium",Noida,A5,I&D,(T) Card packages,Account
+August,3,"Selenium,Test Automation,Cucumber, Behat,Java 7",Gurgaon,B1,GP,(D) Banking Sector,Proactive
+October,1,"Selenium,Test Automation,Cucumber, Behat,Java 7",Bhubaneswar,B2,Cards,(T) Enterprise Content Management (ECM),Proactive
+August,4,"Selenium,Test Automation,Cucumber, Behat,Java 7",Gurgaon,B1,GP,(F) IT Operations,Proactive
+March,2,"Selenium,Test Automation,Cucumber, Behat,Java 7",Pune,A3,TEST,(T) Reporting/Business Intelligence,Proactive
+October,4,"Selenium,Test Automation,Cucumber, Behat,Java 7",Bhubaneswar,B2,Cards,(T) Mainframe Development Technologies,Support
+August,1,"Selenium,Test Automation,Cucumber, Behat,Java 7",Gurgaon,B1,INS,(T) Java Development Technologies,Proactive
+January,4,"Selenium,Test Automation,Cucumber, Behat,Java 7",Chennai,A1,DCX,(T) Guidewire,Account
+October,3,"Selenium,Test Automation,Cucumber, Behat,Java 7",Bhubaneswar,B2,Cards,"(T) Project Tools, Methodologies and Frameworks",Account
+October,3,"Selenium,Test Automation,Cucumber, Behat,Java 7",Bhubaneswar,B2,M&FT,(T) Mainframe Development Technologies,Account
+January,3,"Selenium,Test Automation,Cucumber, Behat,Java 7",Chennai,A1,DCX,(D) Banking Sector,Account
+October,2,"Selenium,Test Automation,Cucumber, Behat,Java 7",Bhubaneswar,B2,M&FT,(T) Mainframe Development Technologies,Account
+June,1,"Selenium,Test Automation,Cucumber, Behat,Java 7",Noida,A5,ADM,(T) Reporting/Business Intelligence,Account
+August,2,"Selenium,Test Automation,Cucumber, Behat,Java 7",Gurgaon,B1,GP,(T) Data Integration,Account
+October,1,"Java,Cucumber, Behat,Jenkins,Cards Acquiring,Functional Testing,Selenium",Bhubaneswar,B2,Cards,(D) Banking Sector,Account
+June,2,"Java,Cucumber, Behat,Jenkins,Cards Acquiring,Selenium,Functional Testing",Noida,A5,I&D,(T) Testing Tools / Testing Automation / Performance Testing Tools,Account
+August,1,"Java,Cucumber, Behat,Jenkins,Cards Acquiring,Functional Testing,Selenium",Gurgaon,B1,INS,(T) Mainframe Development Technologies,Account
+August,3,"Java,Cucumber, Behat,Jenkins,Cards Acquiring,Functional Testing,Selenium",Gurgaon,B1,INS,(F) IT Operations,Proactive
+February,1,"Java,Cucumber, Behat,Jenkins,Cards Acquiring,Functional Testing,Selenium",Hyderabad,A2,CFS,"(T) Project Tools, Methodologies and Frameworks",Proactive
+August,3,"Java,Cucumber, Behat,Jenkins,Cards Acquiring,Functional Testing,Selenium",Gurgaon,B1,INS,(T) Enterprise Content Management (ECM),Account
+October,2,"Java,Cucumber, Behat,Jenkins,Cards Acquiring,Functional Testing,Selenium",Bhubaneswar,B2,M&FT,(T) Java Development Technologies,Proactive
+October,2,"Selenium,Test Automation,Cucumber, Behat,Java 7",Bhubaneswar,B2,M&FT,(D) Banking Sector,Support
+August,2,"Java,Selenium,Cucumber, Behat",Gurgaon,B1,GP,(D) Banking Sector,Account
+February,2,"Business Analytics,BLUE PRISM",Hyderabad,A2,CFS,(T) Enterprise Content Management (ECM),Proactive
+January,1,"Business Analytics,BLUE PRISM",Chennai,A1,DCX,(T) Enterprise Content Management (ECM),Proactive
+February,1,Test Automation,Hyderabad,A2,CFS,,Proactive
+August,3,Java,Gurgaon,B1,GP,,Proactive
+August,4,Oracle 9i,Gurgaon,B1,INS,(T) Mainframe Development Technologies,Proactive
+August,1,Oracle 9i,Gurgaon,B1,GP,(T) Mainframe Development Technologies,Proactive
+June,3,Java,Noida,A5,I&D,(T) Enterprise Content Management (ECM),Proactive
+June,4,Java,Noida,A5,ADM,(D) Banking Sector,Account
+February,2,Java,Hyderabad,A2,CFS,(D) Banking Sector,Proactive
+January,3,Java,Chennai,A1,DCX,(T) Operating systems and Virtualization Technologies,Proactive
+October,2,Java,Bhubaneswar,B2,Cards,(D) Banking Sector,Proactive
+January,4,Java,Chennai,A1,DCX,(D) Banking Sector,Proactive
+October,4,Java,Bhubaneswar,B2,M&FT,(D) Capital Markets Sector,Proactive
+August,1,Java,Gurgaon,B1,GP,(T) Enterprise Content Management (ECM),Proactive
+June,4,PMO (Project),Noida,A5,I&D,(T) Testing Tools / Testing Automation / Performance Testing Tools,Proactive
+May,2,PMO (Project),Bangalore,A4,BANK,(D) Insurance Sector,Account
+May,1,PMO (Project),Bangalore,A4,BANK,(T) Guidewire,Account
+October,2,Teradata,Bhubaneswar,B2,Cards,(T) Relational Databases,Account
+October,2,Teradata,Bhubaneswar,B2,M&FT,(T) Java Development Technologies,Account
+March,1,QlikView,Pune,A3,TEST,(T) Card packages,Account
+June,4,Power Designer Data Architect,Noida,A5,ADM,(D) Banking Sector,Support
+May,3,Java,Bangalore,A4,BANK,(T) Card packages,Proactive
+February,1,PMO (Account),Hyderabad,A2,CFS,(T) Guidewire,Proactive
+October,2,Java,Bhubaneswar,B2,M&FT,(T) Java Development Technologies,Account
+August,3,Selenium,Gurgaon,B1,INS,(T) Java Development Technologies,Proactive
+October,4,Selenium,Bhubaneswar,B2,M&FT,(T) Enterprise Content Management (ECM),Proactive
+June,2,Informatica BI,Noida,A5,I&D,(T) Enterprise Content Management (ECM),Account
+May,2,REST API,Bangalore,A4,BANK,(F) IT Operations,Proactive
+December,2,"API Integrations- REST, SOAP , Powershell",Hartford,C1,ERP,(T) Enterprise Content Management (ECM),Proactive
+June,3,"Automation - Chef, Puppet",Noida,A5,ADM,(T) Microsoft Development Technologies,Proactive
+January,2,"API Integrations- REST, SOAP , Powershell",Chennai,A1,DCX,(T) Enterprise Content Management (ECM),Account
+August,1,"API Integrations- REST, SOAP , Powershell",Gurgaon,B1,INS,(D) Banking Sector,Account
+May,1,"API Integrations- REST, SOAP , Powershell",Bangalore,A4,BANK,(T) Enterprise Service Bus (ESB),Account
+December,3,"API Integrations- REST, SOAP , Powershell",Hartford,C1,ERP,(D) Banking Sector,Account
+December,1,"API Integrations- REST, SOAP , Powershell",Hartford,C1,ERP,(T) Java Development Technologies,Account
+December,3,"API Integrations- REST, SOAP , Powershell",Hartford,C1,ERP,(D) Banking Sector,Proactive
+February,3,Java,Hyderabad,A2,CFS,(T) Mainframe Development Technologies,Proactive
+January,2,Testing Manual,Chennai,A1,DCX,(T) Microsoft Development Technologies,Proactive
+March,4,Testing Manual,Pune,A3,TEST,(D) Banking Sector,Proactive
+October,3,Testing Manual,Bhubaneswar,B2,M&FT,(T) Relational Databases,Proactive
+August,2,Java,Gurgaon,B1,INS,(T) Enterprise Content Management (ECM),Proactive
+August,3,BPM,Gurgaon,B1,INS,(T) Testing Tools / Testing Automation / Performance Testing Tools,Proactive
+October,1,Java Web,Bhubaneswar,B2,Cards,"(T) Project Tools, Methodologies and Frameworks",Proactive
+March,3,Decision Strategy Manager,Pune,A3,TEST,"(T) Project Tools, Methodologies and Frameworks",Proactive
+June,2,J2EE,Noida,A5,ADM,(T) Enterprise Content Management (ECM),Proactive
+October,2,"(T) Testing Tools / Testing Automation / Performance Testing Tools,Java",Bhubaneswar,B2,Cards,(T) Client Server Development Technologies,Account
+June,3,"(T) Testing Tools / Testing Automation / Performance Testing Tools,Java",Noida,A5,I&D,(T) Enterprise Content Management (ECM),Proactive
+March,1,PYTHON,Pune,A3,TEST,(F) IT Operations,Proactive
+March,4,Testing Manual,Pune,A3,TEST,(T) Enterprise Content Management (ECM),Support
+June,3,C# .NET,Noida,A5,I&D,(D) Banking Sector,Support
+June,1,C# .NET,Noida,A5,ADM,(D) Cards,Support
+December,4,Axiom,Hartford,C1,ERP,(T) Web Development Technologies,Support
+August,3,Axiom,Gurgaon,B1,GP,(T) Data Integration,Support
+February,4,Axiom,Hyderabad,A2,CFS,(D) Capital Markets Sector,Proactive
+January,4,Java,Chennai,A1,DCX,(T) Enterprise Content Management (ECM),Proactive
+December,3,Java,Hartford,C1,ERP,(T) Testing Tools / Testing Automation / Performance Testing Tools,Proactive
+May,3,Java,Bangalore,A4,BANK,(D) Banking Sector,Account
+August,1,Oracle Database UNIX Scripting,Gurgaon,B1,INS,(T) Mainframe Development Technologies,Account
+June,1,Java,Noida,A5,ADM,(T) Enterprise Content Management (ECM),Account
+February,4,Java,Hyderabad,A2,CFS,(T) Enterprise Content Management (ECM),Proactive
+August,4,Java,Gurgaon,B1,INS,(D) Cards,Proactive
+February,4,Ab Initio,Hyderabad,A2,CFS,(D) Banking Sector,Proactive
+June,4,Ab Initio,Noida,A5,I&D,(T) Enterprise Content Management (ECM),Proactive
+February,4,SAS,Hyderabad,A2,CFS,(T) Testing Tools / Testing Automation / Performance Testing Tools,Account
+October,3,SAS,Bhubaneswar,B2,Cards,(D) Banking Sector,Proactive
+August,2,SAS,Gurgaon,B1,INS,(T) Card packages,Proactive
+August,3,PMO (Account),Gurgaon,B1,INS,(T) Enterprise Content Management (ECM),Proactive
+October,2,Informatica BI,Bhubaneswar,B2,Cards,(T) Client Server Development Technologies,Proactive
+June,4,Informatica BI,Noida,A5,ADM,"(T) Workflow,  Business process management and Case management",Proactive
+June,3,"API Integrations- REST, SOAP , Powershell",Noida,A5,I&D,(T) Mainframe Development Technologies,Proactive
+October,1,"API Integrations- REST, SOAP , Powershell",Bhubaneswar,B2,M&FT,(T) Mainframe Development Technologies,Account
+October,4,"API Integrations- REST, SOAP , Powershell",Bhubaneswar,B2,Cards,(D) Capital Markets Sector,Proactive
+January,1,"API Integrations- REST, SOAP , Powershell",Chennai,A1,DCX,(T) Card packages,Support
+January,2,"API Integrations- REST, SOAP , Powershell",Chennai,A1,DCX,(T) Java Development Technologies,Proactive
+December,1,Decision Strategy Manager,Hartford,C1,ERP,(T) Java Development Technologies,Proactive
+August,4,"SAS,Decision Strategy Manager",Gurgaon,B1,INS,(T) Java Development Technologies,Proactive
+March,1,Java,Pune,A3,TEST,(T) Enterprise Content Management (ECM),Proactive
+March,3,Test Automation,Pune,A3,TEST,(T) Card packages,Proactive
+June,1,SAS,Noida,A5,I&D,(D) Capital Markets Sector,Support
+March,2,Testing Manual,Pune,A3,TEST,(T) Relational Databases,Proactive
+August,4,Testing Manual,Gurgaon,B1,GP,(T) Java Development Technologies,Proactive
+June,2,Testing Manual,Noida,A5,I&D,(D) Banking Sector,Account
+March,4,Testing Manual,Pune,A3,TEST,(D) Insurance Sector,Proactive
+March,2,Java,Pune,A3,TEST,(D) Insurance Sector,Proactive
+January,4,Java,Chennai,A1,DCX,(D) Banking Sector,Account
+May,2,Java,Bangalore,A4,BANK,(T) Testing Tools / Testing Automation / Performance Testing Tools,Support
+December,2,Java,Hartford,C1,ERP,(T) Monitoring Technologies,Proactive
+August,1,"Java-Production Support,Java",Gurgaon,B1,GP,(T) Microsoft Development Technologies,Proactive
+March,1,"SQL,SAS",Pune,A3,TEST,(T) Microsoft Development Technologies,Account
+March,2,Java,Pune,A3,TEST,(T) Web Development Technologies,Proactive
+December,1,SAS,Hartford,C1,ERP,(T) Testing Tools / Testing Automation / Performance Testing Tools,Proactive
+October,2,SAS,Bhubaneswar,B2,Cards,(T) Mainframe Development Technologies,Proactive
+December,1,SAS,Hartford,C1,ERP,(T) Enterprise Content Management (ECM),Proactive
+March,4,"Testing Manual,Cards Acquiring",Pune,A3,TEST,(T) Guidewire,Proactive
+March,1,Cards Acquiring,Pune,A3,TEST,"(T) Project Tools, Methodologies and Frameworks",Proactive
+August,3,BPM,Gurgaon,B1,INS,(T) Mainframe Development Technologies,Proactive
+March,2,BPM,Pune,A3,TEST,(T) Mainframe Development Technologies,Account
+June,3,BPM,Noida,A5,ADM,(T) Guidewire,Account
+October,3,BPM,Bhubaneswar,B2,M&FT,(T) Enterprise Content Management (ECM),Proactive
+March,2,BPM,Pune,A3,TEST,(T) Mainframe Development Technologies,Proactive
+February,3,"Cards Acquiring,Testing Manual",Hyderabad,A2,CFS,(T) Java Development Technologies,Proactive
+October,3,"Cards Acquiring,Testing Manual",Bhubaneswar,B2,Cards,(F) IT Operations,Proactive
+May,2,"Cards Acquiring,Testing Manual",Bangalore,A4,BANK,(T) Monitoring Technologies,Proactive
+June,4,Informatica BI,Noida,A5,I&D,(T) Enterprise Content Management (ECM),Proactive
+February,1,Informatica BI,Hyderabad,A2,CFS,(T) Microsoft Development Technologies,Proactive
+August,2,Informatica BI,Gurgaon,B1,GP,(T) Enterprise Content Management (ECM),Proactive
+January,1,Informatica BI,Chennai,A1,DCX,(F) IT Consulting,Proactive
+August,1,Informatica BI,Gurgaon,B1,INS,"(T) Workflow,  Business process management and Case management",Account
+December,1,Informatica BI,Hartford,C1,ERP,(T) Enterprise Content Management (ECM),Support
+August,1,Informatica BI,Gurgaon,B1,GP,(T) Mainframe Development Technologies,Proactive
+February,4,Informatica BI,Hyderabad,A2,CFS,(F) IT Operations,Proactive
+January,4,Informatica BI,Chennai,A1,DCX,(T) Enterprise Content Management (ECM),Proactive
+February,2,Java,Hyderabad,A2,CFS,(T) Configuration Management & Versioning Tools,Proactive
+March,3,Java,Pune,A3,TEST,(T) Microsoft Development Technologies,Account
+August,4,Java,Gurgaon,B1,GP,(D) Capital Markets Sector,Proactive
+December,4,Java,Hartford,C1,ERP,(D) Banking Sector,Proactive
+January,1,Java,Chennai,A1,DCX,(D) Banking Sector,Account
+June,1,Java,Noida,A5,ADM,(T) Enterprise Content Management (ECM),Proactive
+June,4,UI,Noida,A5,ADM,(T) Microsoft Development Technologies,Proactive
+May,2,UI,Bangalore,A4,BANK,(T) Mainframe Development Technologies,Proactive
+December,1,UI,Hartford,C1,ERP,(T) Capital market packages,Account
+February,3,C# .NET,Hyderabad,A2,CFS,(T) Enterprise Content Management (ECM),Proactive
+May,2,Test Automation,Bangalore,A4,BANK,,Proactive
+March,3,Oracle data quality,Pune,A3,TEST,(D) Capital Markets Sector,Proactive
+October,3,C# .NET,Bhubaneswar,B2,M&FT,(T) Java Development Technologies,Account
+August,1,Testing Manual,Gurgaon,B1,INS,(D) Banking Sector,Proactive
+December,4,Teradata,Hartford,C1,ERP,(T) Enterprise Content Management (ECM),Proactive
+June,4,Teradata,Noida,A5,ADM,(T) Testing Tools / Testing Automation / Performance Testing Tools,Proactive
+January,1,Teradata,Chennai,A1,DCX,(F) IT Consulting,Proactive
+March,4,Informatica BI,Pune,A3,TEST,(T) Mainframe Development Technologies,Proactive
+October,1,Ab Initio,Bhubaneswar,B2,Cards,(T) Enterprise Content Management (ECM),Proactive
+October,2,Ab Initio,Bhubaneswar,B2,M&FT,"(T) Project Tools, Methodologies and Frameworks",Account
+January,4,Ab Initio,Chennai,A1,DCX,(T) Web Development Technologies,Account
+October,1,Ab Initio,Bhubaneswar,B2,Cards,"(T) Project Tools, Methodologies and Frameworks",Account
+June,4,Ab Initio,Noida,A5,ADM,(D) Banking Sector,Account
+January,3,Ab Initio,Chennai,A1,DCX,(T) Enterprise Content Management (ECM),Account
+December,3,Ab Initio,Hartford,C1,ERP,(T) Enterprise Content Management (ECM),Account
+February,2,Ab Initio,Hyderabad,A2,CFS,(F) IT Operations,Support
+March,3,Ab Initio,Pune,A3,TEST,(T) Enterprise Content Management (ECM),Proactive
+March,4,Ab Initio,Pune,A3,TEST,(T) Mainframe Development Technologies,Proactive
+January,1,Ab Initio,Chennai,A1,DCX,(D) Banking Sector,Proactive
+October,3,Ab Initio,Bhubaneswar,B2,M&FT,(T) Java Development Technologies,Proactive
+August,3,Ab Initio,Gurgaon,B1,INS,(D) Cards,Proactive
+May,1,Ab Initio,Bangalore,A4,BANK,(T) Mainframe Development Technologies,Proactive
+October,1,Ab Initio,Bhubaneswar,B2,M&FT,(T) Enterprise Content Management (ECM),Account
+June,4,Ab Initio,Noida,A5,ADM,(T) Card packages,Account
+October,1,Ab Initio,Bhubaneswar,B2,M&FT,(T) Microsoft Development Technologies,Proactive
+October,1,J2EE,Bhubaneswar,B2,Cards,(D) Banking Sector,Support
+March,2,Test Automation,Pune,A3,TEST,(T) Microsoft Development Technologies,Proactive
+August,3,Cards Acquiring,Gurgaon,B1,INS,(T) Mainframe Development Technologies,Proactive
+March,4,Cards Acquiring,Pune,A3,TEST,(T) Enterprise Content Management (ECM),Proactive
+December,3,"Mainframe applications,VSAM,JCL,TRAMS,COBOL",Hartford,C1,ERP,(T) Java Development Technologies,Support
+May,2,"Mainframe applications,COBOL,VSAM,TRAMS,JCL",Bangalore,A4,BANK,(T) Operating systems and Virtualization Technologies,Account
+May,2,"Java,API Integrations- REST, SOAP , Powershell",Bangalore,A4,BANK,(T) Enterprise Content Management (ECM),Proactive
+June,4,"Java,API Integrations- REST, SOAP , Powershell",Noida,A5,I&D,(T) Client Server Development Technologies,Proactive
+August,1,"Java,API Integrations- REST, SOAP , Powershell",Gurgaon,B1,INS,(T) Testing Tools / Testing Automation / Performance Testing Tools,Proactive
+December,2,"Java,API Integrations- REST, SOAP , Powershell",Hartford,C1,ERP,(T) Reporting/Business Intelligence,Account
+June,3,"Java,API Integrations- REST, SOAP , Powershell",Noida,A5,ADM,(T) Reporting/Business Intelligence,Account
+February,2,"Java,API Integrations- REST, SOAP , Powershell",Hyderabad,A2,CFS,(T) Data Integration,Account
+October,1,"Java,API Integrations- REST, SOAP , Powershell",Bhubaneswar,B2,M&FT,(D) Banking Sector,Account
+October,2,"Java,API Integrations- REST, SOAP , Powershell",Bhubaneswar,B2,Cards,,Account
+December,2,"Java,API Integrations- REST, SOAP , Powershell",Hartford,C1,ERP,(T) Data Integration,Account
+August,4,Java,Gurgaon,B1,INS,"(T) Project Tools, Methodologies and Frameworks",Account
+August,3,Java,Gurgaon,B1,INS,(T) Card packages,Proactive
+March,2,Java,Pune,A3,TEST,(T) Java Development Technologies,Proactive
+June,2,Java,Noida,A5,ADM,(T) Card packages,Support
+June,2,Java,Noida,A5,ADM,(T) Enterprise Content Management (ECM),Proactive
+May,1,Java,Bangalore,A4,BANK,(T) Data Governance / Master Data Management (MDM),Account
+December,3,Java,Hartford,C1,ERP,(T) Java Development Technologies,Proactive
+October,2,Java,Bhubaneswar,B2,M&FT,(T) Guidewire,Proactive
+March,2,"Java,Cloud,Webservices",Pune,A3,TEST,(T) Reporting/Business Intelligence,Proactive
+December,3,"Java,J2EE,Cloud",Hartford,C1,ERP,"(T) Workflow,  Business process management and Case management",Proactive
+June,4,"Java,J2EE,Cloud",Noida,A5,I&D,(T) Web Development Technologies,Proactive
+October,2,"Java,J2EE,Cloud",Bhubaneswar,B2,Cards,(T) Reporting/Business Intelligence,Proactive
+August,1,"Java,J2EE,Cloud",Gurgaon,B1,GP,(T) Enterprise Content Management (ECM),Proactive
+August,2,"Java,J2EE,Cloud",Gurgaon,B1,GP,(T) Java Development Technologies,Proactive
+August,2,"Java,J2EE,Cloud",Gurgaon,B1,INS,(T) Card packages,Proactive
+January,2,"Java,J2EE,Cloud",Chennai,A1,DCX,(T) Web Development Technologies,Account
+March,3,"Java,J2EE,Cloud",Pune,A3,TEST,(T) Enterprise Content Management (ECM),Account
+February,2,"Java,J2EE,Cloud",Hyderabad,A2,CFS,(D) Financial Services,Account
+February,1,"Java,J2EE,Cloud",Hyderabad,A2,CFS,(T) Java Development Technologies,Account
+December,4,"Java,J2EE,Cloud",Hartford,C1,ERP,(T) Mainframe Development Technologies,Account
+December,2,"Java,J2EE,Cloud",Hartford,C1,ERP,(D) Financial Services,Account
+June,4,"Java,J2EE,Cloud",Noida,A5,ADM,(T) Mainframe Development Technologies,Account
+October,3,"Java,J2EE,Cloud",Bhubaneswar,B2,Cards,(T) Mainframe Development Technologies,Proactive
+October,3,"Java,J2EE,Cloud",Bhubaneswar,B2,Cards,(T) Embedded Realtime Systems,Proactive
+August,1,.Net (WF),Gurgaon,B1,INS,(T) Microsoft Development Technologies,Proactive
+August,4,.Net (WF),Gurgaon,B1,INS,(T) Web Development Technologies,Proactive
+December,2,.Net (WF),Hartford,C1,ERP,"(T) Project Tools, Methodologies and Frameworks",Proactive
+March,1,.Net (WF),Pune,A3,TEST,(T) Java Development Technologies,Proactive
+June,1,.Net (WF),Noida,A5,ADM,(D) Cards,Proactive
+February,4,.Net (WF),Hyderabad,A2,CFS,(T) Reporting/Business Intelligence,Support
+June,2,"Business Analytics,Cards Issuing",Noida,A5,ADM,(T) Enterprise Content Management (ECM),Proactive
+August,2,"Business Analytics,Cards Issuing",Gurgaon,B1,INS,(T) Testing Tools / Testing Automation / Performance Testing Tools,Account
+March,1,"Business Analytics,Cards Issuing",Pune,A3,TEST,(D) Capital Markets Sector,Proactive
+October,3,"Business Analytics,Cards Issuing",Bhubaneswar,B2,M&FT,(T) Mainframe Development Technologies,Account
+February,2,"Business Analytics,Cards Issuing",Hyderabad,A2,CFS,(T) Office / Desktop Solutions,Proactive
+August,1,"Business Analytics,Cards Issuing",Gurgaon,B1,GP,"(T) Project Tools, Methodologies and Frameworks",Proactive
+March,4,"Business Analytics,Cards Issuing",Pune,A3,TEST,(T) Reporting/Business Intelligence,Support
+December,1,"Business Analytics,Cards Issuing",Hartford,C1,ERP,(D) Banking Sector,Proactive
+January,4,"Business Analytics,Cards Issuing",Chennai,A1,DCX,(T) Data Integration,Proactive
+January,3,"Business Analytics,Cards Issuing",Chennai,A1,DCX,(T) Mainframe Development Technologies,Account
+December,2,"Business Analytics,Cards Issuing",Hartford,C1,ERP,(T) Mainframe Development Technologies,Proactive
+August,2,"Business Analytics,Cards Issuing",Gurgaon,B1,INS,(T) Mainframe Development Technologies,Proactive
+March,3,"Business Analytics,Cards Issuing",Pune,A3,TEST,(T) Mainframe Development Technologies,Proactive
+August,2,"Business Analytics,Cards Issuing",Gurgaon,B1,INS,(T) Enterprise Content Management (ECM),Account
+March,4,"Business Analytics,Cards Issuing",Pune,A3,TEST,(T) Java Development Technologies,Account
+May,4,"Business Analytics,Cards Issuing",Bangalore,A4,BANK,(D) Capital Markets Sector,Account
+March,4,"Business Analytics,Cards Issuing",Pune,A3,TEST,(T) Mainframe Development Technologies,Account
+March,1,"Business Analytics,Cards Issuing",Pune,A3,TEST,(T) Operating systems and Virtualization Technologies,Account
+August,2,"Business Analytics,Cards Issuing",Gurgaon,B1,INS,(F) IT Operations,Account
+October,1,"Business Analytics,Cards Issuing",Bhubaneswar,B2,Cards,(T) Testing Tools / Testing Automation / Performance Testing Tools,Proactive
+October,3,"Business Analytics,Cards Issuing",Bhubaneswar,B2,Cards,(T) Reporting/Business Intelligence,Proactive
+June,2,"Business Analytics,Cards Issuing",Noida,A5,ADM,(T) Office / Desktop Solutions,Proactive
+December,4,"Business Analytics,Cards Issuing",Hartford,C1,ERP,(T) Microsoft Development Technologies,Proactive
+June,1,"Business Analytics,Cards Issuing",Noida,A5,I&D,(T) Testing Tools / Testing Automation / Performance Testing Tools,Proactive
+January,3,"Business Analytics,Cards Issuing",Chennai,A1,DCX,(F) IT Operations,Proactive
+October,1,"Business Analytics,Cards Issuing",Bhubaneswar,B2,M&FT,(T) Enterprise Content Management (ECM),Account
+March,1,"Business Analytics,Cards Issuing",Pune,A3,TEST,(T) Reporting/Business Intelligence,Proactive
+August,3,"Business Analytics,Cards Issuing",Gurgaon,B1,GP,(T) Enterprise Content Management (ECM),Proactive
+March,4,"Cards Acquiring,Vision Plus,VisionPlus CMS",Pune,A3,TEST,(T) Other Oracle ERP,Account
+August,4,Agile,Gurgaon,B1,GP,(F) IT Operations,Proactive
+June,1,Agile,Noida,A5,ADM,(F) IT Operations,Proactive
+August,2,Agile,Gurgaon,B1,GP,(T) Capital market packages,Proactive
+February,3,Agile,Hyderabad,A2,CFS,(F) Sales / CRM / Marketing / Offer/ Client Management / Customer Experience,Proactive
+June,4,Agile,Noida,A5,ADM,(T) Mainframe Development Technologies,Proactive
+March,1,Agile,Pune,A3,TEST,(D) Banking Sector,Proactive
+January,2,Agile,Chennai,A1,DCX,(T) Card packages,Support
+June,1,Agile,Noida,A5,ADM,(D) Technology / High tech / Software Sector,Account
+August,3,Agile,Gurgaon,B1,GP,(T) Card packages,Proactive
+March,2,Agile,Pune,A3,TEST,(T) Guidewire,Proactive
+March,4,Agile,Pune,A3,TEST,(T) Enterprise Content Management (ECM),Proactive
+October,1,Agile,Bhubaneswar,B2,Cards,(T) Mainframe Development Technologies,Proactive
+June,2,Agile,Noida,A5,ADM,(T) Enterprise Content Management (ECM),Proactive
+March,4,Agile,Pune,A3,TEST,(T) Mainframe Development Technologies,Proactive
+March,4,"Project Management Framework,JDE Project Management Contract and Service Billing",Pune,A3,TEST,(T) Relational Databases,Proactive
+October,1,"Project Management Framework,JDE Project Management Contract and Service Billing",Bhubaneswar,B2,M&FT,(T) Card packages,Account
+August,2,"Project Management Framework,JDE Project Management Contract and Service Billing",Gurgaon,B1,GP,(D) Banking Sector,Support
+October,4,"Project Management Framework,JDE Project Management Contract and Service Billing",Bhubaneswar,B2,M&FT,(D) Banking Sector,Proactive
+October,4,"Project Management Framework,JDE Project Management Contract and Service Billing",Bhubaneswar,B2,Cards,(T) Enterprise Content Management (ECM),Proactive
+February,1,"Project Management Framework,JDE Project Management Contract and Service Billing",Hyderabad,A2,CFS,(F) Business Consulting,Account
+October,4,"Project Management Framework,JDE Project Management Contract and Service Billing",Bhubaneswar,B2,M&FT,(T) Mainframe Development Technologies,Support
+February,4,"Project Management Framework,JDE Project Management Contract and Service Billing",Hyderabad,A2,CFS,(T) Testing Tools / Testing Automation / Performance Testing Tools,Support
+January,3,Defect Tracking,Chennai,A1,DCX,(T) Java Development Technologies,Proactive
+March,2,Defect Tracking,Pune,A3,TEST,"(T) Project Tools, Methodologies and Frameworks",Proactive
+March,3,Defect Tracking,Pune,A3,TEST,(T) Card packages,Proactive
+December,3,Defect Tracking,Hartford,C1,ERP,(T) Enterprise Content Management (ECM),Proactive
+October,3,Defect Tracking,Bhubaneswar,B2,M&FT,"(T) Workflow,  Business process management and Case management",Proactive
+June,3,Defect Tracking,Noida,A5,ADM,(D) Insurance Sector,Proactive
+August,2,C#,Gurgaon,B1,GP,(F) IT Operations,Proactive
+May,1,PMO (Project),Bangalore,A4,BANK,(D) Banking Sector,Proactive
+June,4,Ab Initio,Noida,A5,I&D,(T) Testing Tools / Testing Automation / Performance Testing Tools,Account
+June,1,Ab Initio,Noida,A5,ADM,(D) Capital Markets Sector,Account
+October,4,Ab Initio,Bhubaneswar,B2,Cards,(F) IT Operations,Account
+February,4,PMO (Project),Hyderabad,A2,CFS,(T) Java Development Technologies,Account
+August,3,Java,Gurgaon,B1,INS,(T) Monitoring Technologies,Account
+October,2,Axway Integration Broker,Bhubaneswar,B2,Cards,(T) Java Development Technologies,Account
+February,2,Axway Integration Broker,Hyderabad,A2,CFS,(T) Card packages,Support
+March,4,Testing Manual,Pune,A3,TEST,(D) Cards,Proactive
+May,3,"Spring,Hibernate,Core Java",Bangalore,A4,BANK,(T) Enterprise Content Management (ECM),Proactive
+December,2,Business Analytics,Hartford,C1,ERP,(F) IT Operations,Support
+January,1,Business Analytics,Chennai,A1,DCX,(T) Other Financial Solutions,Account
+October,1,Business Analytics,Bhubaneswar,B2,Cards,(F) Finance / Treasury / Cash / Consolidation,Proactive
+January,3,"Oracle Identity Management (OAM, OID, Webgate, AccessGate)",Chennai,A1,DCX,(T) Capital market packages,Proactive
+October,2,"Oracle Identity Management (OAM, OID, Webgate, AccessGate)",Bhubaneswar,B2,M&FT,(D) Cards,Proactive
+December,1,EXTJS,Hartford,C1,ERP,(F) Risk Management / Audit (Functional),Account
+June,4,EXTJS,Noida,A5,ADM,(T) Enterprise Content Management (ECM),Proactive
+October,2,EXTJS,Bhubaneswar,B2,Cards,(T) Mainframe Development Technologies,Proactive
+June,4,Kafka,Noida,A5,I&D,(T) Java Development Technologies,Proactive
+December,2,Kafka,Hartford,C1,ERP,(T) Reporting/Business Intelligence,Account
+December,4,Kafka,Hartford,C1,ERP,(D) Banking Sector,Proactive
+June,4,Kafka,Noida,A5,ADM,(T) Card packages,Support
+October,4,Kafka,Bhubaneswar,B2,Cards,(T) Embedded Realtime Systems,Proactive
+January,3,Kafka,Chennai,A1,DCX,(T) Java Development Technologies,Proactive
+March,2,Kafka,Pune,A3,TEST,(D) Cards,Proactive
+May,3,Kafka,Bangalore,A4,BANK,(D) Banking Sector,Proactive
+January,4,Kafka,Chennai,A1,DCX,(T) Mainframe Development Technologies,Proactive
+May,3,Kafka,Bangalore,A4,BANK,(F) IT Operations,Proactive
+March,3,Kafka,Pune,A3,TEST,(T) Java Development Technologies,Proactive
+June,2,Oracle DB PL/SQL,Noida,A5,I&D,(F) IT Operations,Proactive
+January,2,Oracle DB PL/SQL,Chennai,A1,DCX,"(T) Project Tools, Methodologies and Frameworks",Proactive
+August,2,"(Consulting) - Business Analysis, Requirements",Gurgaon,B1,INS,(T) Enterprise Content Management (ECM),Proactive
+October,3,Java,Bhubaneswar,B2,M&FT,(T) Reporting/Business Intelligence,Proactive
+October,1,Java,Bhubaneswar,B2,M&FT,(T) Java Development Technologies,Proactive
+October,3,Java,Bhubaneswar,B2,M&FT,(D) Banking Sector,Proactive
+June,2,Java,Noida,A5,ADM,(D) Banking Sector,Proactive
+March,2,Java,Pune,A3,TEST,(T) Enterprise Content Management (ECM),Proactive
+June,2,Testing Manual,Noida,A5,I&D,,Proactive
+August,4,"Java (Multi Skilled),Java",Gurgaon,B1,INS,(T) Java Development Technologies,Proactive
+May,1,"Java (Multi Skilled),Java",Bangalore,A4,BANK,(T) Enterprise Content Management (ECM),Support
+March,3,"Java (Multi Skilled),Java",Pune,A3,TEST,(F) IT Operations,Proactive
+October,2,"Java (Multi Skilled),Java",Bhubaneswar,B2,M&FT,(D) Banking Sector,Proactive
+January,1,"Java,Angular.js,JavaScript,Spring,CSS,HTML,JavaScript UI",Chennai,A1,DCX,(T) Java Development Technologies,Account
+March,3,Ab Initio,Pune,A3,TEST,(D) Banking Sector,Support
+October,3,"Banking - Payments,Financial Services",Bhubaneswar,B2,Cards,(T) Data Governance / Master Data Management (MDM),Proactive
+October,1,Performance Testing,Bhubaneswar,B2,M&FT,(T) Mainframe Development Technologies,Account
+January,3,"Test Automation,LISA",Chennai,A1,DCX,(T) Mainframe Development Technologies,Proactive
+June,4,"Test Automation,LISA",Noida,A5,ADM,(T) Operating systems and Virtualization Technologies,Proactive
+June,2,"Test Environment Management,Hyperion",Noida,A5,I&D,(T) Java Development Technologies,Proactive
+August,2,"SOA,Webservices,LISA",Gurgaon,B1,INS,(D) Banking Sector,Proactive
+October,1,"SOA,Webservices,LISA",Bhubaneswar,B2,M&FT,(T) Enterprise Content Management (ECM),Account
+January,3,"SOA,Webservices,LISA",Chennai,A1,DCX,(T) Configuration Management & Versioning Tools,Support
+June,2,"SOA,Webservices,LISA",Noida,A5,ADM,(T) Enterprise Content Management (ECM),Proactive
+January,1,"SOA,Webservices,LISA",Chennai,A1,DCX,(T) BigData,Proactive
+October,4,"SOA,Webservices,LISA",Bhubaneswar,B2,M&FT,(T) Enterprise Content Management (ECM),Account
+June,2,"SOA,Webservices,LISA",Noida,A5,I&D,(D) Banking Sector,Account
+August,3,"SOA,Webservices,LISA",Gurgaon,B1,INS,(D) Cards,Account
+October,4,"SOA,Webservices,LISA",Bhubaneswar,B2,M&FT,(T) Enterprise Content Management (ECM),Account
+February,3,"SOA,Webservices,LISA",Hyderabad,A2,CFS,(T) Guidewire,Account
+August,4,"Test Environment Management,Peoplesoft (ERP)",Gurgaon,B1,INS,(D) Capital Markets Sector,Account
+December,1,"Selenium,TOSCA",Hartford,C1,ERP,(T) Enterprise Content Management (ECM),Proactive
+October,4,"Selenium,TOSCA",Bhubaneswar,B2,M&FT,(T) Java Development Technologies,Proactive
+October,1,"Selenium,TOSCA",Bhubaneswar,B2,M&FT,(D) Banking Sector,Proactive
+October,2,"Selenium,TOSCA",Bhubaneswar,B2,Cards,(D) Banking Sector,Proactive
+June,2,"Selenium,TOSCA",Noida,A5,ADM,(T) Relational Databases,Proactive
+February,3,"Selenium,TOSCA",Hyderabad,A2,CFS,(T) Testing Tools / Testing Automation / Performance Testing Tools,Proactive
+June,2,TOSCA,Noida,A5,I&D,(T) Mainframe Development Technologies,Proactive
+October,3,Test Environment Management,Bhubaneswar,B2,Cards,(D) Cards,Proactive
+March,4,"Test Environment Management,Pega",Pune,A3,TEST,(T) Enterprise Content Management (ECM),Proactive
+February,2,Selenium,Hyderabad,A2,CFS,(D) Banking Sector,Account
+August,4,"ETL Server/Warehouse,(T) Data and Semantic Modelling,(T) Relational Databases,Data Warehousing",Gurgaon,B1,GP,(T) Configuration Management & Versioning Tools,Proactive
+May,2,Testing Manual,Bangalore,A4,BANK,(T) Mainframe Development Technologies,Proactive
+March,2,Peoplesoft Administration,Pune,A3,TEST,(T) Card packages,Support
+February,2,PeopleSoft Technical,Hyderabad,A2,CFS,(D) Banking Sector,Support
+October,4,PeopleSoft Technical,Bhubaneswar,B2,Cards,(D) Banking Sector,Proactive
+March,2,PeopleSoft Technical,Pune,A3,TEST,(T) Card packages,Proactive
+March,1,PeopleSoft Technical,Pune,A3,TEST,(T) Mainframe Development Technologies,Proactive
+January,2,PeopleSoft Technical,Chennai,A1,DCX,(T) Java Development Technologies,Proactive
+December,1,PeopleSoft Technical,Hartford,C1,ERP,(T) Enterprise Content Management (ECM),Account
+January,2,PeopleSoft Technical,Chennai,A1,DCX,(T) Mainframe Development Technologies,Proactive
+June,4,UI,Noida,A5,I&D,(T) Mainframe Development Technologies,Proactive
+March,1,UI,Pune,A3,TEST,(D) Banking Sector,Proactive
+October,3,UI,Bhubaneswar,B2,M&FT,(T) Reporting/Business Intelligence,Proactive
+June,1,UI,Noida,A5,I&D,(T) Testing Tools / Testing Automation / Performance Testing Tools,Support
+March,1,Business Analytics,Pune,A3,TEST,(D) Capital Markets Sector,Proactive
+May,4,Web Development,Bangalore,A4,BANK,(T) Web Development Technologies,Proactive
+March,4,Web Development,Pune,A3,TEST,(T) Data Science and Analytics,Account
+August,4,Web Development,Gurgaon,B1,GP,(T) Mainframe Development Technologies,Proactive
+March,1,Web Development,Pune,A3,TEST,(T) Enterprise Content Management (ECM),Proactive
+October,2,Web Development,Bhubaneswar,B2,M&FT,(T) Java Development Technologies,Proactive
+March,3,Web Development,Pune,A3,TEST,(T) Reporting/Business Intelligence,Proactive
+May,1,Test Automation,Bangalore,A4,BANK,(T) Capital market packages,Proactive
+January,4,Test Automation,Chennai,A1,DCX,(T) Enterprise Content Management (ECM),Proactive
+March,2,Test Automation,Pune,A3,TEST,(T) Card packages,Proactive
+January,3,Test Automation,Chennai,A1,DCX,(T) Web Development Technologies,Proactive
+May,4,Guidewire PolicyCenter,Bangalore,A4,BANK,(D) Banking Sector,Support
+October,3,Mainframe Development Environment,Bhubaneswar,B2,M&FT,(D) Capital Markets Sector,Account
+March,2,Mainframe Development Environment,Pune,A3,TEST,(T) Capital market packages,Proactive
+June,3,Mainframe Development Environment,Noida,A5,ADM,(D) Banking Sector,Proactive
+December,3,Mainframe Development Environment,Hartford,C1,ERP,(D) Banking Sector,Proactive
+January,3,Mainframe Development Environment,Chennai,A1,DCX,(T) Operating systems and Virtualization Technologies,Proactive
+December,2,Guidewire,Hartford,C1,ERP,(D) Cards,Proactive
+October,1,ETL,Bhubaneswar,B2,M&FT,(T) Enterprise Content Management (ECM),Proactive
+October,2,ETL,Bhubaneswar,B2,M&FT,(T) Mainframe Development Technologies,Proactive
+May,1,Guidewire BillingCenter,Bangalore,A4,BANK,(D) Banking Sector,Account
+December,2,Guidewire PolicyCenter,Hartford,C1,ERP,(D) Capital Markets Sector,Account
+February,3,Guidewire,Hyderabad,A2,CFS,(T) Microsoft Development Technologies,Account
+February,3,Guidewire,Hyderabad,A2,CFS,,Account
+March,3,Guidewire,Pune,A3,TEST,(D) Capital Markets Sector,Account
+February,1,HP Exstream,Hyderabad,A2,CFS,,Account
+March,2,Pega,Pune,A3,TEST,(T) Client Server Development Technologies,Support
+August,3,Pega,Gurgaon,B1,INS,(T) Card packages,Support
+March,3,Open Span,Pune,A3,TEST,(F) IT Operations,Proactive
+August,2,SAP TDMS,Gurgaon,B1,INS,(T) Card packages,Proactive
+June,2,Guidewire PolicyCenter,Noida,A5,I&D,(T) Data Governance / Master Data Management (MDM),Proactive
+May,1,Guidewire,Bangalore,A4,BANK,(T) Enterprise Content Management (ECM),Proactive
+May,4,Test Automation,Bangalore,A4,BANK,(D) Capital Markets Sector,Account
+January,2,Test Automation,Chennai,A1,DCX,(T) Testing Tools / Testing Automation / Performance Testing Tools,Proactive
+January,4,Test Automation,Chennai,A1,DCX,(D) Banking Sector,Proactive
+March,1,Java,Pune,A3,TEST,"(T) Project Tools, Methodologies and Frameworks",Support
+January,3,Java,Chennai,A1,DCX,(T) Java Development Technologies,Proactive
+March,2,Java,Pune,A3,TEST,(D) Insurance Sector,Proactive
+December,4,Java,Hartford,C1,ERP,(T) Enterprise Content Management (ECM),Proactive
+March,1,Microsoft Dynamics CRM,Pune,A3,TEST,(T) Operating systems and Virtualization Technologies,Proactive
+October,2,SAP ISU CRM,Bhubaneswar,B2,M&FT,(T) Testing Tools / Testing Automation / Performance Testing Tools,Account
+October,4,Core Banking,Bhubaneswar,B2,Cards,(F) Sales / CRM / Marketing / Offer/ Client Management / Customer Experience,Account
+October,4,Core Banking,Bhubaneswar,B2,M&FT,(F) IT Operations,Proactive
+October,1,Core Banking,Bhubaneswar,B2,M&FT,(T) Enterprise Content Management (ECM),Proactive
+October,4,"Automation - Chef, Puppet",Bhubaneswar,B2,M&FT,(T) Enterprise Content Management (ECM),Proactive
+October,4,"Automation - Chef, Puppet",Bhubaneswar,B2,Cards,(D) Banking Sector,Proactive
+March,3,"Automation - Chef, Puppet",Pune,A3,TEST,(T) Configuration Management & Versioning Tools,Proactive
+January,4,"Amazon Web services - Build , Administration and integration",Chennai,A1,DCX,"(T) Project Tools, Methodologies and Frameworks",Proactive
+May,2,"Amazon Web services - Build , Administration and integration",Bangalore,A4,BANK,(T) Mainframe Development Technologies,Proactive
+October,1,"Amazon Web services - Build , Administration and integration",Bhubaneswar,B2,M&FT,(T) Mainframe Development Technologies,Account
+March,4,"Amazon Web services - Build , Administration and integration",Pune,A3,TEST,(D) Cards,Account
+October,4,Spring Batch,Bhubaneswar,B2,Cards,(F) Finance / Treasury / Cash / Consolidation,Account
+January,4,Spring,Chennai,A1,DCX,(F) IT Operations,Account
+May,1,Spring Batch,Bangalore,A4,BANK,(T) Oracle Technology,Account
+May,3,Spring,Bangalore,A4,BANK,"(T) Project Tools, Methodologies and Frameworks",Account
+March,4,"Amazon Web services - Build , Administration and integration",Pune,A3,TEST,(T) Mainframe Development Technologies,Proactive
+May,3,"Amazon Web services - Build , Administration and integration",Bangalore,A4,BANK,(F) Commercial and Contract Management,Support
+December,4,"Amazon Web services - Build , Administration and integration",Hartford,C1,ERP,(D) Cards,Proactive
+October,1,"Amazon Web services - Build , Administration and integration",Bhubaneswar,B2,M&FT,(D) Banking Sector,Proactive
+March,1,"Amazon Web services - Build , Administration and integration",Pune,A3,TEST,(D) Banking Sector,Proactive
+March,3,"Amazon Web services - Build , Administration and integration",Pune,A3,TEST,(D) Banking Sector,Support
+October,2,"Amazon Web services - Build , Administration and integration",Bhubaneswar,B2,M&FT,(T) Testing Tools / Testing Automation / Performance Testing Tools,Account
+March,2,"Automation - Chef, Puppet",Pune,A3,TEST,(T) Payment solutions,Proactive
+October,4,"Automation - Chef, Puppet",Bhubaneswar,B2,M&FT,(T) Enterprise Content Management (ECM),Proactive
+October,2,"iText,Amazon Web services - Build , Administration and integration",Bhubaneswar,B2,M&FT,(T) Java Development Technologies,Support
+March,4,"iText,Amazon Web services - Build , Administration and integration",Pune,A3,TEST,(T) Java Development Technologies,Account
+March,1,Test Automation,Pune,A3,TEST,(T) Java Development Technologies,Proactive
+October,4,Functional Testing,Bhubaneswar,B2,M&FT,(D) Banking Sector,Proactive
+August,3,(T) Testing Tools / Testing Automation / Performance Testing Tools,Gurgaon,B1,INS,(T) Mainframe Development Technologies,Proactive
+June,1,"Amazon Web services - Build , Administration and integration",Noida,A5,I&D,(T) Microsoft Development Technologies,Proactive
+August,2,"Amazon Web services - Build , Administration and integration",Gurgaon,B1,INS,(T) Guidewire,Proactive
+March,4,"Amazon Web services - Build , Administration and integration",Pune,A3,TEST,(T) Relational Databases,Proactive
+February,2,"Amazon Web services - Build , Administration and integration",Hyderabad,A2,CFS,(T) Java Development Technologies,Account
+January,1,Functional Testing,Chennai,A1,DCX,(T) Microsoft Development Technologies,Proactive
+October,3,Functional Testing,Bhubaneswar,B2,Cards,(F) IT Operations,Proactive
+October,1,Functional Testing,Bhubaneswar,B2,Cards,(T) Enterprise Content Management (ECM),Proactive
+December,4,"SQL,ETL",Hartford,C1,ERP,(T) Microsoft Development Technologies,Proactive
+February,1,Functional Testing,Hyderabad,A2,CFS,(T) Enterprise Content Management (ECM),Proactive
+March,4,Functional Testing,Pune,A3,TEST,(F) Business Consulting,Proactive
+June,4,Functional Testing,Noida,A5,I&D,(T) Guidewire,Proactive
+June,1,Performance Testing,Noida,A5,I&D,(T) Java Development Technologies,Proactive
+February,4,Performance Testing,Hyderabad,A2,CFS,(T) Mainframe Development Technologies,Proactive
+August,2,"C#,VB.NET",Gurgaon,B1,INS,(T) Guidewire,Proactive
+March,2,"JavaScript,Java Server Pages (JSP)",Pune,A3,TEST,(D) Banking Sector,Proactive
+January,3,"JavaScript,Java Server Pages (JSP)",Chennai,A1,DCX,(D) Banking Sector,Proactive
+August,1,"JavaScript,Java Server Pages (JSP)",Gurgaon,B1,INS,(D) Banking Sector,Proactive
+December,1,"JavaScript,Java Server Pages (JSP)",Hartford,C1,ERP,"(T) Project Tools, Methodologies and Frameworks",Account
+February,4,Salesforce (Technical),Hyderabad,A2,CFS,(T) Mainframe Development Technologies,Support
+March,1,Salesforce (Technical),Pune,A3,TEST,(T) Mainframe Development Technologies,Support
+October,4,Angular.js,Bhubaneswar,B2,Cards,(T) Operating systems and Virtualization Technologies,Proactive
+August,1,Java,Gurgaon,B1,GP,(D) Life Sciences Sector,Proactive
+August,1,"Angular.js,C# .NET",Gurgaon,B1,INS,(D) Capital Markets Sector,Proactive
+August,2,J2EE,Gurgaon,B1,GP,(T) Web Development Technologies,Support
+October,4,J2EE,Bhubaneswar,B2,Cards,(D) Cards,Account
+March,3,J2EE,Pune,A3,TEST,(T) Mainframe Development Technologies,Account
+June,4,Java,Noida,A5,ADM,(D) Cards,Account
+February,2,Mendix,Hyderabad,A2,CFS,(T) Enterprise Content Management (ECM),Account
+June,1,Mendix,Noida,A5,ADM,(D) Capital Markets Sector,Account
+August,1,Mendix,Gurgaon,B1,INS,,Account
+June,1,Mendix,Noida,A5,ADM,(D) Insurance Sector,Account
+March,1,Mendix,Pune,A3,TEST,(T) Guidewire,Account
+August,4,PMO (Project),Gurgaon,B1,INS,(T) Enterprise Content Management (ECM),Proactive
+December,1,IBM Worklight,Hartford,C1,ERP,"(T) Project Tools, Methodologies and Frameworks",Proactive
+December,3,"VisionPlus CMS,VisionPlus FAS",Hartford,C1,ERP,"(T) Project Tools, Methodologies and Frameworks",Proactive
+December,4,SAS Enterprise Guide,Hartford,C1,ERP,(T) BigData,Proactive
+October,4,SAS Enterprise Guide,Bhubaneswar,B2,M&FT,(D) Cards,Proactive
+January,3,SAS Enterprise Guide,Chennai,A1,DCX,(T) Guidewire,Proactive
+August,4,SAS Enterprise Guide,Gurgaon,B1,GP,(D) Cards,Proactive
+May,4,"Vision Plus,Cards Issuing",Bangalore,A4,BANK,(T) Java Development Technologies,Proactive
+August,1,"Vision Plus,Cards Issuing",Gurgaon,B1,GP,(T) Microsoft Development Technologies,Proactive
+February,1,"ETL,AWS Redshift,PYTHON",Hyderabad,A2,CFS,(T) Enterprise Content Management (ECM),Proactive
+August,4,"ETL,AWS Redshift,PYTHON",Gurgaon,B1,INS,(T) Mainframe Development Technologies,Support
+January,4,"ETL,AWS Redshift,PYTHON",Chennai,A1,DCX,(T) Relational Databases,Proactive
+March,2,"Agile,ETL,AWS Redshift,PYTHON",Pune,A3,TEST,(T) Java Development Technologies,Account
+February,4,"Agile,ETL,AWS Redshift,PYTHON",Hyderabad,A2,CFS,(D) Banking Sector,Proactive
+May,2,"Agile,ETL,AWS Redshift,PYTHON",Bangalore,A4,BANK,(T) Enterprise Content Management (ECM),Proactive
+May,2,"PYTHON,Mainframe - Storage & Backup,AWS Redshift",Bangalore,A4,BANK,(D) Life Sciences Sector,Proactive
+December,3,"PYTHON,Mainframe - Storage & Backup,AWS Redshift",Hartford,C1,ERP,(T) Client Server Development Technologies,Proactive
+August,1,"ETL,AWS Redshift,PYTHON",Gurgaon,B1,INS,(T) Java Development Technologies,Proactive
+October,3,"ETL,AWS Redshift,PYTHON",Bhubaneswar,B2,M&FT,(T) Web Development Technologies,Proactive
+August,2,"ETL,AWS Redshift,PYTHON",Gurgaon,B1,GP,(T) Enterprise Content Management (ECM),Proactive
+June,2,"ETL,AWS Redshift,PYTHON",Noida,A5,ADM,(T) Microsoft Development Technologies,Proactive
+December,2,"ETL,AWS Redshift,PYTHON",Hartford,C1,ERP,(T) Capital market packages,Proactive
+October,2,"ETL,AWS Redshift,PYTHON",Bhubaneswar,B2,Cards,(T) Enterprise Content Management (ECM),Proactive
+October,3,"Agile,ETL,AWS Redshift,PYTHON",Bhubaneswar,B2,M&FT,(F) IT Operations,Support
+March,2,"Agile,ETL,AWS Redshift,PYTHON",Pune,A3,TEST,(T) Reporting/Business Intelligence,Support
+December,3,"Agile,ETL,AWS Redshift,PYTHON",Hartford,C1,ERP,(T) Data Integration,Proactive
+October,4,Test Planning,Bhubaneswar,B2,M&FT,(T) Java Development Technologies,Proactive
+June,3,Java (Multi Skilled),Noida,A5,ADM,(F) Retirement and Pensions,Proactive
+October,4,Java (Multi Skilled),Bhubaneswar,B2,M&FT,(T) Testing Tools / Testing Automation / Performance Testing Tools,Proactive
+December,3,Java (Multi Skilled),Hartford,C1,ERP,(T) Enterprise Content Management (ECM),Account
+January,3,Java (Multi Skilled),Chennai,A1,DCX,(T) Enterprise Content Management (ECM),Proactive
+March,3,Java (Multi Skilled),Pune,A3,TEST,(T) Enterprise Content Management (ECM),Proactive
+May,1,Java (Multi Skilled),Bangalore,A4,BANK,(T) Operating systems and Virtualization Technologies,Proactive
+October,1,SIT,Bhubaneswar,B2,Cards,(D) Banking Sector,Proactive
+March,3,Java (Multi Skilled),Pune,A3,TEST,(T) Enterprise Content Management (ECM),Proactive
+January,2,.Net with MVC,Chennai,A1,DCX,(T) Microsoft Development Technologies,Proactive
+December,2,.Net with MVC,Hartford,C1,ERP,(T) Enterprise Content Management (ECM),Support
+June,3,Java (Multi Skilled),Noida,A5,I&D,(T) Client Server Development Technologies,Account
+August,1,(T) Data and Semantic Modelling,Gurgaon,B1,GP,(D) Cards,Account
+October,3,(T) Data and Semantic Modelling,Bhubaneswar,B2,M&FT,(T) Reporting/Business Intelligence,Proactive
+January,1,(T) Data and Semantic Modelling,Chennai,A1,DCX,(D) Banking Sector,Proactive
+October,3,"ETL Testing,Amazon Web services - Build , Administration and integration,Banking Platform,SAS Programming - Base & Advance",Bhubaneswar,B2,M&FT,(D) Capital Markets Sector,Proactive
+March,4,Ab Initio,Pune,A3,TEST,(D) Capital Markets Sector,Proactive
+January,1,Ab Initio,Chennai,A1,DCX,(T) Enterprise Content Management (ECM),Proactive
+March,1,Ab Initio,Pune,A3,TEST,(F) IT Operations,Support
+October,1,Ab Initio,Bhubaneswar,B2,M&FT,(T) Enterprise Content Management (ECM),Account
+August,2,Ab Initio,Gurgaon,B1,GP,(T) Mainframe Development Technologies,Account
+February,2,Ab Initio,Hyderabad,A2,CFS,(T) Enterprise Content Management (ECM),Account
+March,4,Ab Initio,Pune,A3,TEST,(T) Reporting/Business Intelligence,Account
+June,1,Ab Initio,Noida,A5,ADM,(D) Capital Markets Sector,Account
+February,1,PYTHON,Hyderabad,A2,CFS,(F) Risk Management / Audit (Functional),Account
+October,2,PYTHON,Bhubaneswar,B2,M&FT,(T) Other CRM  & customer experience Packages,Proactive
+October,2,Java (Multi Skilled),Bhubaneswar,B2,M&FT,(T) Testing Tools / Testing Automation / Performance Testing Tools,Proactive
+June,2,Java (Multi Skilled),Noida,A5,ADM,(F) IT Operations,Proactive
+December,2,Java (Multi Skilled),Hartford,C1,ERP,(T) Mainframe Development Technologies,Proactive
+February,3,Java (Multi Skilled),Hyderabad,A2,CFS,(D) Banking Sector,Proactive
+August,2,Java (Multi Skilled),Gurgaon,B1,GP,(F) Finance / Treasury / Cash / Consolidation,Support
+August,2,Java (Multi Skilled),Gurgaon,B1,INS,(F) Finance / Treasury / Cash / Consolidation,Support
+February,2,Java (Multi Skilled),Hyderabad,A2,CFS,(D) Banking Sector,Proactive
+October,4,Java (Multi Skilled),Bhubaneswar,B2,M&FT,(T) Enterprise Content Management (ECM),Proactive
+August,3,Java (Multi Skilled),Gurgaon,B1,INS,"(T) Workflow,  Business process management and Case management",Proactive
+March,4,Java (Multi Skilled),Pune,A3,TEST,(T) Enterprise Content Management (ECM),Account
+January,2,Java (Multi Skilled),Chennai,A1,DCX,(D) Insurance Sector,Account
+March,4,Java (Multi Skilled),Pune,A3,TEST,"(T) Project Tools, Methodologies and Frameworks",Proactive
+June,4,Service Now,Noida,A5,I&D,(T) Enterprise Content Management (ECM),Proactive
+August,1,"ETL Testing,Amazon Web services - Build , Administration and integration,SAS Programming - Base & Advance,Banking Platform",Gurgaon,B1,INS,"(T) Project Tools, Methodologies and Frameworks",Proactive
+October,2,Business Analytics,Bhubaneswar,B2,Cards,(D) Cards,Proactive
+June,4,Business Analytics,Noida,A5,ADM,(T) Configuration Management & Versioning Tools,Proactive
+May,2,"REST API,Java & Thunderhead,Spring Security,J2EE",Bangalore,A4,BANK,(T) Card packages,Proactive
+June,1,"REST API,Spring Security,Java & Thunderhead,J2EE",Noida,A5,ADM,(D) Banking Sector,Proactive
+March,1,"REST API,Spring Security,Java & Thunderhead,J2EE",Pune,A3,TEST,(F) Finance / Treasury / Cash / Consolidation,Account
+October,3,Performance Testing,Bhubaneswar,B2,M&FT,(T) Web Development Technologies,Proactive
+August,2,"Java (Multi Skilled),Java,Guidewire",Gurgaon,B1,GP,(F) Business Management / Management / Executive Management,Proactive
+May,1,Guidewire,Bangalore,A4,BANK,(D) Consumer Products Sector,Proactive
+August,3,Guidewire,Gurgaon,B1,INS,(T) Testing Tools / Testing Automation / Performance Testing Tools,Proactive
+December,2,Angular.js,Hartford,C1,ERP,(D) Financial Services,Proactive
+March,2,Java,Pune,A3,TEST,(T) Data Governance / Master Data Management (MDM),Support
+March,4,Splunk,Pune,A3,TEST,(T) Mainframe Development Technologies,Proactive
+June,2,"Development Architecture,KONY",Noida,A5,I&D,(T) Testing Tools / Testing Automation / Performance Testing Tools,Proactive
+February,2,"Java,Spring,Hibernate",Hyderabad,A2,CFS,(D) Banking Sector,Support
+October,4,"Java,Spring,Hibernate",Bhubaneswar,B2,M&FT,(D) Consumer Products Sector,Proactive
+December,2,Teradata,Hartford,C1,ERP,(D) Capital Markets Sector,Proactive
+March,3,Ab Initio,Pune,A3,TEST,(T) Java Development Technologies,Proactive
+January,1,Ab Initio,Chennai,A1,DCX,(T) Configuration Management & Versioning Tools,Proactive
+August,2,Ab Initio,Gurgaon,B1,GP,(T) Microsoft Development Technologies,Account
+February,4,Java,Hyderabad,A2,CFS,(D) Insurance Sector,Support
+March,2,Informatica BI,Pune,A3,TEST,(D) Banking Sector,Proactive
+August,3,Java,Gurgaon,B1,GP,(T) Testing Tools / Testing Automation / Performance Testing Tools,Proactive
+March,1,Filenet,Pune,A3,TEST,(T) Mainframe Development Technologies,Proactive
+August,2,Temenos,Gurgaon,B1,GP,(T) Enterprise Content Management (ECM),Account
+June,2,Temenos,Noida,A5,I&D,(T) Mainframe Development Technologies,Account
+June,1,"(D) Capital Markets Sector,Financial Services",Noida,A5,ADM,(T) Java Development Technologies,Account
+March,3,"(D) Capital Markets Sector,Financial Services",Pune,A3,TEST,(T) Monitoring Technologies,Account
+January,2,Temenos,Chennai,A1,DCX,(F) Sales / CRM / Marketing / Offer/ Client Management / Customer Experience,Account
+October,2,Temenos,Bhubaneswar,B2,M&FT,(D) Cards,Account
+August,2,Temenos,Gurgaon,B1,INS,(D) Banking Sector,Account
+January,2,Ab Initio,Chennai,A1,DCX,(D) Capital Markets Sector,Proactive
+January,2,Ab Initio,Chennai,A1,DCX,(D) Cards,Account
+May,3,Temenos,Bangalore,A4,BANK,(D) Cards,Proactive
+May,1,(D) Capital Markets Sector,Bangalore,A4,BANK,(T) Web Development Technologies,Support
+March,4,"Amazon Web services - Build , Administration and integration",Pune,A3,TEST,(T) Web Development Technologies,Proactive
+August,2,"Amazon Web services - Build , Administration and integration",Gurgaon,B1,INS,(D) Healthcare Sector,Proactive
+January,1,"Amazon Web services - Build , Administration and integration",Chennai,A1,DCX,(T) Web Development Technologies,Proactive
+March,4,"Mulesoft ESB,Spring,Java (Multi Skilled),Java",Pune,A3,TEST,(T) Enterprise Content Management (ECM),Proactive
+January,1,"Mulesoft ESB,Spring,Java (Multi Skilled),Java",Chennai,A1,DCX,(D) Capital Markets Sector,Proactive
+January,1,"Pivotal Cloud Foundryÿ - Build and Administration,Amazon Web services - Build , Administration and integration,Hibernate,Spring,Core Java",Chennai,A1,DCX,(T) Enterprise Content Management (ECM),Proactive
+February,2,"Pivotal Cloud Foundryÿ - Build and Administration,Amazon Web services - Build , Administration and integration,Hibernate,Spring,Core Java",Hyderabad,A2,CFS,(T) Mainframe Development Technologies,Proactive
+June,4,"Vision Plus,Falcon",Noida,A5,ADM,(D) Healthcare Sector,Account
+March,2,Adobe,Pune,A3,TEST,(D) Banking Sector,Proactive
+August,4,Adobe,Gurgaon,B1,INS,(D) Cards,Proactive
+June,4,Adobe,Noida,A5,ADM,(T) Microsoft Development Technologies,Support
+June,1,Adobe,Noida,A5,I&D,(T) Microsoft Development Technologies,Proactive
+February,2,Adobe,Hyderabad,A2,CFS,(D) Banking Sector,Proactive
+October,2,Adobe,Bhubaneswar,B2,Cards,(T) Enterprise Content Management (ECM),Proactive
+June,2,Adobe,Noida,A5,ADM,(T) Monitoring Technologies,Proactive
+March,1,Adobe,Pune,A3,TEST,(T) Monitoring Technologies,Proactive
+October,3,Adobe,Bhubaneswar,B2,Cards,(T) Enterprise Content Management (ECM),Proactive
+October,2,Adobe,Bhubaneswar,B2,M&FT,(T) Microsoft Development Technologies,Proactive
+January,3,Adobe,Chennai,A1,DCX,(F) Business Consulting,Support
+January,1,Business Consulting,Chennai,A1,DCX,(D) Banking Sector,Account
+October,1,Business Consulting,Bhubaneswar,B2,Cards,(T) Microsoft Development Technologies,Proactive
+January,2,Adobe,Chennai,A1,DCX,(T) Enterprise Content Management (ECM),Proactive
+October,3,Banking,Bhubaneswar,B2,M&FT,(D) Banking Sector,Proactive
+August,4,"C#,jQuery,C,Angular.js,.Net with MVC",Gurgaon,B1,INS,(T) Enterprise Content Management (ECM),Proactive
+June,3,"C#,jQuery,C,Angular.js,.Net with MVC",Noida,A5,I&D,(T) Mainframe Development Technologies,Proactive
+June,2,"C#,jQuery,C,Angular.js,.Net with MVC",Noida,A5,I&D,(T) Reporting/Business Intelligence,Proactive
+March,1,"C#,jQuery,C,Angular.js,.Net with MVC",Pune,A3,TEST,(F) IT Operations,Proactive
+August,4,Business Consulting,Gurgaon,B1,GP,(T) Card packages,Account
+March,4,Portal,Pune,A3,TEST,(D) Cards,Support
+June,3,"Java (Multi Skilled),Java,Pega",Noida,A5,I&D,(T) Mainframe Development Technologies,Proactive
+May,1,Fundtech - Global PayPlus (GPP),Bangalore,A4,BANK,(D) Capital Markets Sector,Proactive
+June,2,Fundtech - Global PayPlus (GPP),Noida,A5,I&D,(T) Card packages,Proactive
+October,4,"(T) Mobile Development Technologies,BPM",Bhubaneswar,B2,M&FT,(F) IT Operations,Proactive
+December,3,Mulesoft ESB,Hartford,C1,ERP,(F) IT Operations,Proactive
+June,4,Mulesoft ESB,Noida,A5,I&D,(T) Reporting/Business Intelligence,Support
+March,1,Mulesoft ESB,Pune,A3,TEST,(T) Application Server Technologies,Account
+June,2,Mulesoft ESB,Noida,A5,I&D,(D) Banking Sector,Proactive
+February,2,Mulesoft ESB,Hyderabad,A2,CFS,(T) Testing Tools / Testing Automation / Performance Testing Tools,Proactive
+January,4,Mulesoft ESB,Chennai,A1,DCX,(T) Reporting/Business Intelligence,Proactive
+June,2,Mulesoft ESB,Noida,A5,ADM,(D) Telecom Sector,Proactive
+March,2,Mulesoft ESB,Pune,A3,TEST,(T) Mainframe Development Technologies,Account
+February,1,Mulesoft ESB,Hyderabad,A2,CFS,(T) Mainframe Development Technologies,Proactive
+March,1,Mulesoft ESB,Pune,A3,TEST,(T) Java Development Technologies,Proactive
+June,2,BPM,Noida,A5,ADM,(D) Banking Sector,Proactive
+August,4,BPM,Gurgaon,B1,INS,,Proactive
+December,3,BPM,Hartford,C1,ERP,(F) HRO (HR Operations - Business Services),Account
+January,2,BPM,Chennai,A1,DCX,(F) IT Operations,Proactive
+February,4,BPM,Hyderabad,A2,CFS,(T) Java Development Technologies,Proactive
+August,3,BPM,Gurgaon,B1,INS,(T) Operating systems and Virtualization Technologies,Proactive
+October,3,BPM,Bhubaneswar,B2,Cards,(D) Capital Markets Sector,Proactive
+February,4,Pega,Hyderabad,A2,CFS,(T) Enterprise Content Management (ECM),Account
+March,4,Pega,Pune,A3,TEST,(T) Enterprise Content Management (ECM),Support
+August,2,Pega,Gurgaon,B1,INS,(D) Cards,Proactive
+August,2,Pega,Gurgaon,B1,GP,(T) Data Integration,Account
+March,4,Pega,Pune,A3,TEST,(T) Mainframe Development Technologies,Account
+August,2,Pega,Gurgaon,B1,INS,(D) Banking Sector,Support
+December,2,Pega,Hartford,C1,ERP,(T) Guidewire,Proactive
+March,1,BPM,Pune,A3,TEST,(D) Banking Sector,Proactive
+October,4,BPM,Bhubaneswar,B2,Cards,(D) Cards,Proactive
+March,4,BPM,Pune,A3,TEST,(D) Banking Sector,Account
+June,1,Mulesoft ESB,Noida,A5,ADM,(T) Enterprise Content Management (ECM),Proactive
+August,1,Mulesoft ESB,Gurgaon,B1,GP,(T) Mainframe Development Technologies,Account
+February,4,Mulesoft ESB,Hyderabad,A2,CFS,(T) Enterprise Content Management (ECM),Account
+March,3,Mulesoft ESB,Pune,A3,TEST,(D) Banking Sector,Proactive
+March,2,Mulesoft ESB,Pune,A3,TEST,(T) Mainframe Development Technologies,Proactive
+May,3,"XML,Java (Multi Skilled),Java,Thunderhead",Bangalore,A4,BANK,(D) Banking Sector,Proactive
+June,1,NICE,Noida,A5,I&D,"(T) Project Tools, Methodologies and Frameworks",Account
+August,2,"Compliance,AML,Regulatory Framework,Risk Management",Gurgaon,B1,INS,(D) Banking Sector,Account
+March,2,Business Consulting,Pune,A3,TEST,(T) Enterprise Content Management (ECM),Account
+March,1,"(D) Capital Markets Sector,Financial Services",Pune,A3,TEST,(F) IT Operations,Account
+December,1,"Financial Services,(D) Capital Markets Sector",Hartford,C1,ERP,"(T) Project Tools, Methodologies and Frameworks",Account
+January,4,"(D) Capital Markets Sector,Financial Services",Chennai,A1,DCX,(T) Reporting/Business Intelligence,Account
+June,3,Ab Initio,Noida,A5,ADM,,Proactive
+February,1,Ab Initio,Hyderabad,A2,CFS,(D) Banking Sector,Proactive
+October,3,Ab Initio,Bhubaneswar,B2,Cards,(F) Business Management / Management / Executive Management,Account
+October,4,Temenos,Bhubaneswar,B2,M&FT,(D) Insurance Sector,Proactive
+March,2,Temenos,Pune,A3,TEST,(T) Enterprise Content Management (ECM),Proactive
+March,3,Temenos,Pune,A3,TEST,(F) IT Operations,Account
+June,2,Temenos,Noida,A5,I&D,,Support
+January,3,Temenos,Chennai,A1,DCX,(T) Java Development Technologies,Proactive
+October,4,Temenos,Bhubaneswar,B2,Cards,(D) Banking Sector,Account
+June,2,Temenos,Noida,A5,ADM,(T) Java Development Technologies,Proactive
+June,3,Angular.js,Noida,A5,ADM,,Support
+January,1,Angular.js,Chennai,A1,DCX,(D) Banking Sector,Proactive
+March,3,Angular.js,Pune,A3,TEST,(T) Java Development Technologies,Proactive
+August,2,Angular.js,Gurgaon,B1,INS,,Proactive
+June,3,Angular.js,Noida,A5,I&D,,Proactive
+March,3,Angular.js,Pune,A3,TEST,,Account
+December,1,Angular.js,Hartford,C1,ERP,(F) IT Operations,Proactive
+August,1,Angular.js,Gurgaon,B1,INS,(D) Banking Sector,Proactive
+January,3,Angular.js,Chennai,A1,DCX,(D) Banking Sector,Proactive
+March,2,Angular.js,Pune,A3,TEST,(D) Insurance Sector,Proactive
+October,2,Angular.js,Bhubaneswar,B2,Cards,(T) Enterprise Content Management (ECM),Proactive
+January,4,"Vision Plus,V+",Chennai,A1,DCX,,Proactive
+March,2,"Spring Batch,Hibernate,Spring,Java (Multi Skilled),Java",Pune,A3,TEST,(T) Relational Databases,Proactive
+October,3,"Spring Batch,Hibernate,Spring,Java (Multi Skilled),Java",Bhubaneswar,B2,Cards,(D) Insurance Sector,Proactive
+June,4,"Spring Batch,Hibernate,Spring,Java (Multi Skilled),Java",Noida,A5,ADM,(F) IT Operations,Proactive
+May,1,"Spring Batch,Hibernate,Spring,Java (Multi Skilled),Java",Bangalore,A4,BANK,,Proactive
+March,3,"Spring Batch,Hibernate,Spring,Java (Multi Skilled),Java",Pune,A3,TEST,(T) Testing Tools / Testing Automation / Performance Testing Tools,Support
+October,1,"Spring Batch,Hibernate,Spring,Java (Multi Skilled),Java",Bhubaneswar,B2,Cards,(D) Cards,Account
+August,2,"Spring Batch,Hibernate,Spring,Java (Multi Skilled),Java",Gurgaon,B1,INS,(T) Testing Tools / Testing Automation / Performance Testing Tools,Proactive
+August,3,"Spring Batch,Hibernate,Spring,Java (Multi Skilled),Java",Gurgaon,B1,INS,(T) Java Development Technologies,Proactive
+February,4,"Spring Batch,Hibernate,Spring,Java (Multi Skilled),Java",Hyderabad,A2,CFS,(D) Banking Sector,Proactive
+March,2,"Spring Batch,Hibernate,Spring,Java (Multi Skilled),Java",Pune,A3,TEST,(T) Card packages,Account
+August,3,"Spring Batch,Hibernate,Spring,Java (Multi Skilled),Java",Gurgaon,B1,GP,(D) Banking Sector,Proactive
+February,4,"Spring Batch,Hibernate,Spring,Java (Multi Skilled),Java",Hyderabad,A2,CFS,"(T) Project Tools, Methodologies and Frameworks",Support
+June,3,"Spring Batch,Hibernate,Spring,Java (Multi Skilled),Java",Noida,A5,I&D,(T) Java Development Technologies,Account
+February,2,"Spring Batch,Hibernate,Spring,Java (Multi Skilled),Java",Hyderabad,A2,CFS,(D) Banking Sector,Account
+February,3,"Spring Batch,Hibernate,Spring,Java (Multi Skilled),Java",Hyderabad,A2,CFS,(T) Testing Tools / Testing Automation / Performance Testing Tools,Proactive
+October,2,"Spring Batch,Hibernate,Spring,Java (Multi Skilled),Java",Bhubaneswar,B2,M&FT,(D) Banking Sector,Account
+June,2,"Spring Batch,Hibernate,Spring,Java (Multi Skilled),Java",Noida,A5,ADM,(D) Banking Sector,Proactive
+June,1,"Spring Batch,Hibernate,Spring,Java (Multi Skilled),Java",Noida,A5,ADM,(T) Java Development Technologies,Support
+May,4,"Spring Batch,Hibernate,Spring,Java (Multi Skilled),Java",Bangalore,A4,BANK,(T) Microsoft Development Technologies,Account
+August,4,"Spring Batch,Hibernate,Spring,Java (Multi Skilled),Java",Gurgaon,B1,INS,(F) IT Operations,Support
+January,4,"Spring Batch,Hibernate,Spring,Java (Multi Skilled),Java",Chennai,A1,DCX,(T) Java Development Technologies,Support
+October,1,PL SQL,Bhubaneswar,B2,M&FT,(T) Enterprise Content Management (ECM),Account
