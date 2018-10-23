@@ -13,6 +13,14 @@ Have to build the most accurate model which can predict target column for data_t
 > * 'id': the id column from data_test.csv
 > * 'target': the predicted probability of target being 1
 
+## Stack used
+- Sklearn
+- xgboost
+- lightgbm
+- eli5
+- Keras
+- Tensorflow
+- bayes_opt
 
 ## Approach Discussion
 Q.1:- Briefly describe the conceptual approach you chose! What are the trade-offs?
