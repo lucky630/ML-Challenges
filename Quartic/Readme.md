@@ -28,6 +28,6 @@ Because of Ensemble of 4 different predictive models It is difficult for the int
 
 Q.3:- If you had more time, what improvements would you make, and in what order of priority?
 > 1. More feature generation by feature interaction and removing the unuseful features by keeping the useful one.
-2. Data Imputation by using predictive modelling instead of Mode.Features like num18 have higher feature importance but have lot of Null values.so,carefully filling these null values can result in accuracy increase.
-3. Tune the Xgboost and Dae Models on different Parameter space.Running the Dae Network for More number of Epochs or changing the Network architecture can also help.
-4. Doing Two Level Stacking with different and diverse Models.
+> 2. Data Imputation by using predictive modelling instead of Mode.Features like num18 have higher feature importance but have lot of Null values.so,carefully filling these null values can result in accuracy increase.
+> 3. Tune the Xgboost and Dae Models on different Parameter space.Running the Dae Network for More number of Epochs or changing the Network architecture can also help.
+> 4. Doing Two Level Stacking with different and diverse Models.
