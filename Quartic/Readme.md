@@ -31,11 +31,11 @@ The final solution is the weighted Average of both the models where weights were
 
 Q.2:- What's the model performance? What is the complexity? Where are the bottlenecks?
 > Roc_Auc have choose to measure the model Performance.Accuracy can't be used because of Unbalanced class count in the dataset.So we are getting 64% Roc_Auc score for 3 fold cv for First model of Ensemble and 63% Accuracy on Second Model with weighted Average the Score went to 65%.
-> - Because of Ensemble of 4 different predictive models It is difficult for the interpretability of the model.The Runtime also higher than single model.
+> - Because of Ensemble of 4 different predictive models It is difficult to interpret the model behaviour.The Runtime is also higher than single model.
 
 
 Q.3:- If you had more time, what improvements would you make, and in what order of priority?
 > 1. More feature generation by feature interaction and removing the unuseful features by keeping the useful one.
-> 2. Data Imputation by using predictive modelling instead of Mode.Features like num18 have higher feature importance but have lot of Null values.so,carefully filling these null values can result in accuracy increase.
-> 3. Tune the Xgboost and Dae Models on different Parameter space.Running the Dae Network for More number of Epochs or changing the Network architecture can also help.
+> 2. Data Imputation by using predictive modelling instead of Mode.Features like num18 have higher feature importance but have lot of Null values.So,carefully filling these null values can result in accuracy increase.
+> 3. Tune the Xgboost and Dae Models on different Parameter space.Running the Dae Network for More number of Epochs or changing the Network architecture can also help.Currently network has trained for 10 epochs.
 > 4. Doing Two Level Stacking with different and diverse Models.
