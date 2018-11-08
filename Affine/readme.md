@@ -22,3 +22,7 @@ Train Having 2727 Accounts and the info about there historic deals.On the others
 2. Properties whose sales year is before 2003 in the Opportunities table in't been recommended to the new users.
 3. Properties who having demolished status is also not consider for the reccomendation.so after filtering these properties we were able to remove half of the properties from the Property table.
 4. Some Properties have sold more than ones in there lifecycle and sometimes there are more than 1 property sold in a single deal.
+
+## Team Member
+- [Arjun Rana](https://github.com/monsterspy)
+- [utsav aggarwal](https://github.com/utsav1)
