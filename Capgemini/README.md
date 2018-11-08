@@ -31,3 +31,6 @@ https://techchallenge.in.capgemini.com/techchallenge/data-science?leaderboard=tr
 - Plotly
 - Statsmodels
 - IBM Watson Studio
+
+## Team Member
+- [Arjun Rana](https://github.com/monsterspy)
