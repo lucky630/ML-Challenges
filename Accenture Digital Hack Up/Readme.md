@@ -7,7 +7,6 @@ In this competition we were chellenged to build a model that can predict scores 
 
 Train Having 45000 comment replies and the test set having 30000 rows of comments.Here Task was to build a model that can predict scores of comments present in the test dataset.
 
-## Approach
 
 ![alt text](https://github.com/lucky630/ML-Challenges/blob/master/Accenture%20Digital%20Hack%20Up/data/CommentScorerDiagram.png)
 
