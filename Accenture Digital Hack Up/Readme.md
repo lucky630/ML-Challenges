@@ -1,8 +1,8 @@
 # Accenture Digital Hack Up
-First Position solution for Accenture Digital Hack Up machine Learning challenge
+First Place solution for Accenture Digital Hack Up machine Learning challenge
 https://www.hackerearth.com/challenges/competitive/Accenture-ml/machine-learning/predict-comment-score/
 
-## About 
+## Problem Statement 
 In this competition we were chellenged to build a model that can predict scores of comments based upon The parent comment to which sarcastic comments are made and the Reply to a parent comment.
 
 Train Having 45000 comment replies and the test set having 30000 rows of comments.Here Task was to build a model that can predict scores of comments present in the test dataset.
