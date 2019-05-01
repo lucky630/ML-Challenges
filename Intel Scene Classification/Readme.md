@@ -15,3 +15,6 @@ https://docs.fast.ai/vision.transform.html
 
 I have started to work on this problem from last 4 days only.link to the challenge problem is below:
 https://datahack.analyticsvidhya.com/contest/practice-problem-intel-scene-classification-challe/
+
+Dataset is available in following link:
+https://www.kaggle.com/dipam7/intel-data-scene
