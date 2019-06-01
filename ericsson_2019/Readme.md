@@ -1,6 +1,6 @@
 # Ericsson-Challenge-Solution
 
-only done single submission for both the problems.link to the problem statement https://www.hackerearth.com/challenges/hiring/ericsson-ml-challenge-2019/instructions/
+Done single submission for both the problems.link to the problem statement https://www.hackerearth.com/challenges/hiring/ericsson-ml-challenge-2019/instructions/
 
 Approach-
 
