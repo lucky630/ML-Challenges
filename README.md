@@ -11,3 +11,8 @@ Some of Machine Learning Challenge Solutions
 - Euristica 2018 Challenge: Here i created a model which predict whether day is good or bad for the Paragliding.
 - Euristica 2019 Challenge: Model built for this able to predict The average damage inflicted in a PUBG game by the online player.
 - Expedia Challenge: In this challenge, I worked on to built a model which predict Number of minutes a flight was delayed based upon Features.
+- Innoplexus Challenge: I created a Named Entity Recognition model which identify named entities from the text Dataset.
+- Innoplexus Document Referencing Challenge: Here model predicts the citations for the papers From the corpus of research papers.
+- Intel Scene Classification Challenge: Here I used a Resnet Openvino model to classify images into 5 different scenes.
+- Quartic Challenge: In this I created a Binary classifier which do a ensemble of models to predict the target variable.
+- WNS analyticsvidhya Challenge: In this I created a Employee Churn prediction model
