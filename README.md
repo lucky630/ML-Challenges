@@ -1,6 +1,6 @@
-## ML-Challenges
+## Machine Learning Challenges Solutions
 
-Some of Machine Learning Challenge Solutions
+Here are Some of Machine Learning Challenge Solutions and approaches to solve those.
 
 - Accenture Digital Hack-up Challenge: In this Challenge I build a model that can predict scores of comments based upon The parent comment to which sarcastic comments are made and the Reply to the parent comment.
 - Affine Analytics Challenge: In this Challenge, I Build a property recommendation system, which recommend some finite number of properties to these new Accounts.
